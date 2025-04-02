@@ -17,19 +17,19 @@ function WagonrCNG() {
     <>
       <Helmet>
         <title>
-        Maruti  Wagon R CNG  On Road Price in Hyderabad starts Rs.6.44 Lakh at RKS Motor.
+        2025 Summer Specials - Maruti Wagon R CNG On Road Price in Hyderabad Starts at ₹6.44 Lakh | RKS Motor
         </title>
         <meta
           name="title"
-          content=" Maruti  Wagon R CNG  On Road Price in Hyderabad starts Rs.6.44 Lakh at RKS Motor & 2025 Discounts and festive Offers"
+          content="2025 Summer Specials - Maruti Wagon R CNG On Road Price in Hyderabad Starts at ₹6.44 Lakh | RKS Motor"
         />
         <meta
           name="description"
-          content="Maruti Wagon R CNG in Secunderabad & Hyderabad. WagonR CNG Mileage 34.05KMPL. Best price & offers on Maruti Wagon R at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Wagon R online. "
+          content="Discover the best deals on Maruti Wagon R CNG in Secunderabad & Hyderabad. With a mileage of 34.05KMPL, it's the perfect combination of efficiency and performance. Visit Saboo Maruti for exclusive 2025 summer offers, finance options, and unbeatable prices. Get your Wagon R today with amazing seasonal savings! Get the On-Road Price online now. "
         />
         <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, Wagon R CNG On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Wagon R CNG Price, Wagon R CNG Service Center, Maruti Wagon R CNG On Road Price, Maruti Wagon R CNG Offers, Maruti Wagon R CNG Price, Maruti Wagon R CNG Service Center, Maruti Wagon R CNG Service Center Near Me, Maruti Suzuki Wagon R CNG Price, Maruti Suzuki Wagon R CNG On Road Price, Maruti Suzuki Wagon R CNG Offers, Maruti Suzuki Wagon R CNG, Wagon R CNG 2025 Offers, Wagon R CNG 2025 Price, Wagon R CNG On Road Price in Hyderabad, Wagon R CNG Offers in Hyderabad, Wagon R CNG Price in Hyderabad, Maruti Wagon R CNG 2025 Price, Maruti Wagon R CNG 2025 On Road Price, Maruti Wagon R CNG 2025 Offers, Maruti Wagon R CNG 2025 Price in Hyderabad, Maruti Wagon R CNG 2025 On Road Price in Hyderabad, Maruti Suzuki Wagon R CNG 2025 Price, Maruti Suzuki Wagon R CNG 2025 On Road Price, Maruti Suzuki Wagon R CNG 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Wagon R CNG Discounts, Maruti Suzuki Wagon R CNG 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="Maruti Wagon R CNG 2025 Discounts, Wagon R CNG On Road Price in Hyderabad, Maruti Suzuki Wagon R CNG 2025 Offers, Wagon R CNG Price in Hyderabad, Maruti Wagon R CNG 2025 On Road Price, Maruti Suzuki Wagon R CNG Offers, Maruti Wagon R CNG 2025 Price, Wagon R CNG Special Offers 2025, Maruti Wagon R CNG Finance Options, Best Price on Maruti Wagon R CNG, Maruti Suzuki Wagon R CNG Offers 2025, Wagon R CNG Limited-time Deals, Wagon R CNG Summer Offers 2025, Maruti Suzuki Wagon R CNG Discount, Maruti Wagon R CNG Mileage 34.05KMPL, Wagon R CNG 2025 Price in Hyderabad, Maruti Wagon R CNG Service Center, Maruti Wagon R CNG Service Center Near Me, Wagon R CNG Price in Hyderabad, Wagon R CNG 2025 Limited-time Discounts."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function WagonrCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Wagon R CNG On Road Price in Secunderabad, Hyderabad & 2025 Discounts and festive Offers | Saboo Maruti"
+          content="2025 Summer Specials - Maruti Wagon R CNG On Road Price in Hyderabad Starts at ₹6.44 Lakh | RKS Motor"
         />
         <meta
           property="og:description"
-          content="Maruti Wagon R CNG in Secunderabad & Hyderabad. WagonR CNG Mileage 34.05KMPL. Best price & offers on Maruti Wagon R at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Wagon R online"
+          content="Discover the best deals on Maruti Wagon R CNG in Secunderabad & Hyderabad. With a mileage of 34.05KMPL, it's the perfect combination of efficiency and performance. Visit Saboo Maruti for exclusive 2025 summer offers, finance options, and unbeatable prices. Get your Wagon R today with amazing seasonal savings! Get the On-Road Price online now."
         />
         <meta property="og:image" content="../img/og-tags/wagonr.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki AltMaruti Wagon R CNG On Road Price in Secunderabad, Hyderabad & 2025 Discounts and festive Offers | Saboo Maruti"
+          content="2025 Summer Specials - Maruti Wagon R CNG On Road Price in Hyderabad Starts at ₹6.44 Lakh | RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Maruti Wagon R CNG in Secunderabad & Hyderabad. WagonR CNG Mileage 34.05KMPL. Best price & offers on Maruti Wagon R at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Wagon R online"
+          content="Discover the best deals on Maruti Wagon R CNG in Secunderabad & Hyderabad. With a mileage of 34.05KMPL, it's the perfect combination of efficiency and performance. Visit Saboo Maruti for exclusive 2025 summer offers, finance options, and unbeatable prices. Get your Wagon R today with amazing seasonal savings! Get the On-Road Price online now."
         />
         <meta property="twitter:image" content="../img/og-tags/wagonr.webp" />
       </Helmet>

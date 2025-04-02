@@ -31,19 +31,19 @@ function Celerio() {
       <Header />
       <Helmet>
         <title>
-        Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti
+        Maruti Celerio 2025 Summer Offers – On-Road Price, Images, Colors & Reviews in Hyderabad at Saboo Maruti! Exclusive April Discounts on Maruti Celerio – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content=" Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
+          content=" Maruti Celerio 2025 Summer Offers – On-Road Price, Images, Colors & Reviews in Hyderabad at Saboo Maruti! Exclusive April Discounts on Maruti Celerio – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this April! 🌞 Enjoy a stylish design, advanced features, and a smart driving experience with the 2025 Maruti Suzuki Celerio. Take advantage of exclusive April summer offers and limited-time discounts. Don't miss these incredible savings—book now and drive home your dream car this season!"
         />
         <meta
           name="keywords"
-          content="Maruti Celerio 2025 Offer, Holi & Ugadi 2025 Discounts, Maruti Suzuki Celerio Deals, Arena Celerio Offers, Celerio Smart Hatchback Discount, 2025 Year Sale Celerio, Maruti Celerio Festive Offers, Celerio 2025 Special Offers, Maruti Celerio Holi & Ugadi Deals, Maruti Celerio Price, Celerio On Road Price, Maruti Suzuki Celerio Holi Ugadi Offers, Celerio Limited-time Discounts, 2025 Celerio Offers, Maruti Celerio 2025 Festive Savings."
+          content="Maruti Celerio 2025 Offer, April Summer Offers on Maruti Celerio, Maruti Suzuki Celerio Deals, Celerio Smart Hatchback Summer Discounts, 2025 Year Sale Celerio, Maruti Celerio Summer Specials, Celerio 2025 Special Offers, Maruti Celerio April Deals, Celerio Limited-Time Summer Discounts, Maruti Celerio 2025 Summer Savings, Celerio On Road Price April 2025, Exclusive April 2025 Celerio Offers, Maruti Suzuki Celerio Best Summer Deals, Celerio April 2025 Price and Offers, 2025 Celerio Summer Savings."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -53,22 +53,22 @@ function Celerio() {
         />
         <meta
           property="og:title"
-          content="Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
+          content=" Maruti Celerio 2025 Summer Offers – On-Road Price, Images, Colors & Reviews in Hyderabad at Saboo Maruti! Exclusive April Discounts on Maruti Celerio – Limited-Time Summer Deals!"
         />
         <meta
           property="og:description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this April! 🌞 Enjoy a stylish design, advanced features, and a smart driving experience with the 2025 Maruti Suzuki Celerio. Take advantage of exclusive April summer offers and limited-time discounts. Don't miss these incredible savings—book now and drive home your dream car this season!"
         />
         <meta property="og:image" content="img/og-tags/celerio.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
+          content=" Maruti Celerio 2025 Summer Offers – On-Road Price, Images, Colors & Reviews in Hyderabad at Saboo Maruti! Exclusive April Discounts on Maruti Celerio – Limited-Time Summer Deals | Saboo Maruti"
         />
         <meta
           property="twitter:description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this April! 🌞 Enjoy a stylish design, advanced features, and a smart driving experience with the 2025 Maruti Suzuki Celerio. Take advantage of exclusive April summer offers and limited-time discounts. Don't miss these incredible savings—book now and drive home your dream car this season!"
         />
         <meta property="twitter:image" content="img/og-tags/celerio.webp" />
       </Helmet>

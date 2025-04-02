@@ -17,19 +17,19 @@ function TourM() {
     <>
       <Helmet>
         <title>
-        Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!
+        Summer 2025 Offers on Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!"
+          content="Summer 2025 Offers on Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Ertiga Tour M commercial is available in CNG and petrol engine option. Know more about the Tour Mmileage, features, specifications, performance,exterior and interior of Tour M Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Ertiga Tour M Commercial with CNG and petrol engine options at Saboo Maruti Suzuki. Offering exceptional mileage, top-notch features, performance, and specifications, it's the perfect choice for commercial use. Visit us today to learn more about the Ertiga Tour M's exterior, interior, and special summer offers available now!"
         />
         <meta
           name="keywords"
-          content="ertiga on road price, ertiga offers, ertiga price, ertiga service center, maruti ertiga on road price, maruti ertiga offers, maruti ertiga price, maruti ertiga service center, maruti ertiga service center near me, maruti suzuki ertiga price, maruti suzuki ertiga on road price, maruti suzuki ertiga offers,maruti suzuki ertiga, ertiga on road price, ertiga 2025 offers, ertiga 2025 price, ertiga on road price in hyderabad, breza offers in hyderabad, ertiga price in hyderabad, maruti ertiga 2025 price, maruti ertiga 2024 on road price, maruti ertiga 2025 offers, maruti ertiga 2025 price in hyderabad, maruti ertiga 2025 on road price in hyderabad, Maruti Suzuki ertiga 2025 price, Maruti Suzuki ertiga 2025 on road price, maruti suzuki ertiga 2025 offers,  vitara ertiga offers, Vitara ertiga price, vitara ertiga on road price, vitara ertiga 2025 offers, vitara ertiga 2025 price, vitara ertiga 2025 on road price, vitara ertiga 2025 offers,Mahashivratri offers, Valentine's Day deals"
+          content="Ertiga on road price, Ertiga offers, Ertiga price, Ertiga service center, Maruti Ertiga on road price, Maruti Ertiga offers, Maruti Ertiga price, Maruti Ertiga service center, Maruti Ertiga service center near me, Maruti Suzuki Ertiga price, Maruti Suzuki Ertiga on road price, Maruti Suzuki Ertiga offers, Maruti Suzuki Ertiga, Ertiga on road price, Ertiga 2025 offers, Ertiga 2025 price, Ertiga on road price in Hyderabad, Ertiga price in Hyderabad, Maruti Ertiga 2025 price, Maruti Ertiga 2024 on road price, Maruti Ertiga 2025 offers, Maruti Ertiga 2025 price in Hyderabad, Maruti Ertiga 2025 on road price in Hyderabad, Maruti Suzuki Ertiga 2025 price, Maruti Suzuki Ertiga 2025 on road price, Maruti Suzuki Ertiga 2025 offers, Vitara Ertiga offers, Vitara Ertiga price, Vitara Ertiga on road price, Vitara Ertiga 2025 offers, Vitara Ertiga 2025 price, Vitara Ertiga 2025 on road price, Vitara Ertiga 2025 offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function TourM() {
         />
         <meta
           property="og:title"
-          content="Maruti Suzuki Ertiga Tour M Commercial | Commercial Ertiga Tour M Car Mileage, Features, Specification | Saboo Maruti"
+          content="Summer 2025 Offers on Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!"
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki Ertiga Tour M commercial is available in CNG and petrol engine option. Know more about the Tour Mmileage, features, specifications, performance,exterior and interior of Tour M Commercial at Saboo Maruti Suzuki Commercial. "
+          content="Explore the Maruti Suzuki Ertiga Tour M Commercial with CNG and petrol engine options at Saboo Maruti Suzuki. Offering exceptional mileage, top-notch features, performance, and specifications, it's the perfect choice for commercial use. Visit us today to learn more about the Ertiga Tour M's exterior, interior, and special summer offers available now!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki Ertiga Tour M Commercial | Commercial Ertiga Tour M Car Mileage, Features, Specification | Saboo Maruti"
+          content="Summer 2025 Offers on Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki Ertiga Tour M commercial is available in CNG and petrol engine option. Know more about the Tour Mmileage, features, specifications, performance,exterior and interior of Tour M Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Ertiga Tour M Commercial with CNG and petrol engine options at Saboo Maruti Suzuki. Offering exceptional mileage, top-notch features, performance, and specifications, it's the perfect choice for commercial use. Visit us today to learn more about the Ertiga Tour M's exterior, interior, and special summer offers available now!"
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

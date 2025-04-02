@@ -17,19 +17,19 @@ function TourS() {
     <>
       <Helmet>
         <title>
-        Maruti Suzuki Dzire Tour S Commercial – Starting at ₹6.56 Lakh at RKS Motor!
+        Maruti Suzuki Dzire Tour S Commercial 2025 Offers – Starting at ₹6.56 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Dzire Tour S Commercial – Starting at ₹6.56 Lakh at RKS Motor!"
+          content="Maruti Suzuki Dzire Tour S Commercial 2025 Offers – Starting at ₹6.56 Lakh at RKS Motor!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Dzire Tour S commercial is available in CNG and petrol engine option. Know more about the Tour S mileage, features, specifications, performance,exterior and interior of Tour S Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Dzire Tour S Commercial, available in both CNG and petrol engine options. Discover the exceptional mileage, features, specifications, performance, and both interior and exterior details of the Tour S Commercial at Saboo Maruti Suzuki. Visit your nearest Saboo Maruti Suzuki showroom for exclusive offers and best deals on the Dzire Tour S Commercial today!"
         />
         <meta
           name="keywords"
-          content="Dzire  Tour S  on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2025 offers, dzire 2025 price, dzire on road price in hyderabad, breza offers in hyderabad, dzire price in hyderabad, maruti dzire 2025 price, maruti dzire 2025 on road price, maruti dzire 2025 offers, maruti dzire 2025 price in hyderabad, maruti dzire 2025 on road price in hyderabad, Maruti Suzuki dzire 2025 price, Maruti Suzuki dzire 2025 on road price, maruti suzuki dzire 2025 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2025 offers, vitara dzire 2025 price, vitara dzire 2025 on road price, vitara dzire 2025 offers,Mahashivratri offers, Valentine's Day deals"
+          content="Dzire  Tour S  on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2025 offers, dzire 2025 price, dzire on road price in hyderabad, breza offers in hyderabad, dzire price in hyderabad, maruti dzire 2025 price, maruti dzire 2025 on road price, maruti dzire 2025 offers, maruti dzire 2025 price in hyderabad, maruti dzire 2025 on road price in hyderabad, Maruti Suzuki dzire 2025 price, Maruti Suzuki dzire 2025 on road price, maruti suzuki dzire 2025 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2025 offers, vitara dzire 2025 price, vitara dzire 2025 on road price, vitara dzire 2025 offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function TourS() {
         />
         <meta
           property="og:title"
-          content="Maruti Suzuki Dzire Tour S Commercial | Commercial Dzire Tour S Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki Dzire Tour S Commercial 2025 Offers – Starting at ₹6.56 Lakh at RKS Motor!"
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki Dzire Tour S commercial is available in CNG and petrol engine option. Know more about the Tour S mileage, features, specifications, performance,exterior and interior of Tour S Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Dzire Tour S Commercial, available in both CNG and petrol engine options. Discover the exceptional mileage, features, specifications, performance, and both interior and exterior details of the Tour S Commercial at Saboo Maruti Suzuki. Visit your nearest Saboo Maruti Suzuki showroom for exclusive offers and best deals on the Dzire Tour S Commercial today!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki Dzire Tour S Commercial | Commercial Dzire Tour S Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki Dzire Tour S Commercial 2025 Offers – Starting at ₹6.56 Lakh at RKS Motor!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki Dzire Tour S commercial is available in CNG and petrol engine option. Know more about the Tour S mileage, features, specifications, performance,exterior and interior of Tour S Commercial at Saboo Maruti Suzuki Commercial."
+          content="Dzire  Tour S  on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2025 offers, dzire 2025 price, dzire on road price in hyderabad, breza offers in hyderabad, dzire price in hyderabad, maruti dzire 2025 price, maruti dzire 2025 on road price, maruti dzire 2025 offers, maruti dzire 2025 price in hyderabad, maruti dzire 2025 on road price in hyderabad, Maruti Suzuki dzire 2025 price, Maruti Suzuki dzire 2025 on road price, maruti suzuki dzire 2025 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2025 offers, vitara dzire 2025 price, vitara dzire 2025 on road price, vitara dzire 2025 offers."
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

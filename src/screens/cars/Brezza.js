@@ -106,19 +106,19 @@ function Brezza() {
     <>
       <Helmet>
         <title>
-        Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor
+        Maruti 2025 Summer Discounts & April Specials on Maruti Suzuki Vitara Brezza – SUV Style at RKS Motor! 
         </title>
         <meta
           name="title"
-          content="Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content=" Maruti 2025 Summer Discounts & April Specials on Maruti Suzuki Vitara Brezza – SUV Style at RKS Motor! "
         />
         <meta
           name="description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
+          content="Get amazing 2025 discounts and limited-time summer offers on the stylish and powerful Maruti Suzuki Vitara Brezza. Drive home your dream SUV with low EMIs and unbeatable savings this April. Hurry, book now before the deals end!"
         />
         <meta
           name="keywords"
-          content="Maruti Suzuki Vitara Brezza 2025 Discounts, Holi & Ugadi Offers, Vitara Brezza Price, Vitara Brezza On Road Price, Maruti Suzuki Brezza 2025 Offers, Vitara Brezza Festive Deals, Vitara Brezza Discounts, 2025 Holi & Ugadi Deals, Vitara Brezza SUV Offers, Maruti Brezza 2025 Limited-time Offers, Brezza 2025 Price, Maruti Suzuki Brezza Holi Ugadi Discounts, Vitara Brezza Special Offers 2025, Maruti SUV Brezza Holi Ugadi Savings, Vitara Brezza 2025 on Road Price, Brezza Adventure Offers."
+          content="Maruti Suzuki Vitara Brezza 2025 Discounts, April Summer Offers on Vitara Brezza, Vitara Brezza Price, Vitara Brezza On Road Price, Maruti Suzuki Brezza 2025 Summer Deals, Vitara Brezza April Specials, Vitara Brezza Best Summer Discounts 2025, Limited-Time Summer Offers on Brezza, Vitara Brezza SUV Offers, Maruti Brezza 2025 Hot Summer Savings, Exclusive April 2025 Brezza Deals, Brezza 2025 Price, Maruti Suzuki Brezza April Discounts, Vitara Brezza Summer Festive Deals, Maruti SUV Brezza Summer Savings, Vitara Brezza 2025 On Road Price, Brezza Adventure Summer Offers, Best April 2025 Brezza SUV Deals, Maruti Vitara Brezza Limited-Time April Specials."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -128,22 +128,22 @@ function Brezza() {
         />
         <meta
           property="og:title"
-          content=" Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content="Maruti 2025 Summer Discounts & April Specials on Maruti Suzuki Vitara Brezza – SUV Style at RKS Motor! "
         />
         <meta
           property="og:description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
+          content="Get amazing 2025 discounts and limited-time summer offers on the stylish and powerful Maruti Suzuki Vitara Brezza. Drive home your dream SUV with low EMIs and unbeatable savings this April. Hurry, book now before the deals end!"
         />
         <meta property="og:image" content="img/og-tags/breeza.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content="Maruti 2025 Summer Discounts & April Specials on Maruti Suzuki Vitara Brezza – SUV Style at RKS Motor! "
         />
         <meta
           property="twitter:description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
+          content="Get amazing 2025 discounts and limited-time summer offers on the stylish and powerful Maruti Suzuki Vitara Brezza. Drive home your dream SUV with low EMIs and unbeatable savings this April. Hurry, book now before the deals end!"
         />
         <meta property="twitter:image" content="img/og-tags/breeza.webp" />
       </Helmet>

@@ -17,21 +17,20 @@ function CelerioCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Celerio CNG  On Road Price in Hyderabad starts Rs.6.73 Lakh at RKS Motor.
+        Maruti Celerio CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.73 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Celerio CNG – Limited-Time Deals!
         </title>
         <meta
           name="title"
-          content=" Maruti Celerio CNG  On Road Price in Hyderabad starts Rs.6.73 Lakh at RKS Motor | Celerio CNG Mileage & Specifications"
+          content="Maruti Celerio CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.73 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Celerio CNG – Limited-Time Deals!"
         />
         <meta
           name="description"
-          content="Maruti Celerio CNG in Secunderabad & Hyderabad. Celerio CNG Mileage . Best price & offers on Maruti celerio at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti celerio CNG online"
+          content=" Maruti Celerio CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Celerio CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Celerio CNG online and take advantage of these fantastic summer deals!"
         />
 
 <meta
           name="keywords"
-          content=" 2025 Discounts and Festive Offers, Celerio On Road Price, Alto Offers, Celerio Price, Celerio Service Center, Maruti Celerio On Road Price, Maruti Celerio Offers, Maruti Celerio Price, Maruti Celerio Service Center, Maruti Celerio Service Center Near Me, Maruti Suzuki Celerio Price, Maruti Suzuki Celerio On Road Price, Maruti Suzuki Celerio Offers, Maruti Suzuki Celerio, Celerio 2025 Offers, Celerio 2025 Price, Celerio On Road Price in Hyderabad, Celerio Offers in Hyderabad, Celerio Price in Hyderabad,
-           Maruti Celerio 2025 Price, Maruti Celerio 2025 On Road Price, Maruti Celerio 2025 Offers, Maruti Celerio 2025 Price in Hyderabad, Maruti Celerio 2025 On Road Price in Hyderabad, Maruti Suzuki Celerio 2025 Price, Maruti Suzuki Celerio 2025 On Road Price, Maruti Suzuki Celerio 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Celerio Discounts, Maruti Suzuki Celerio 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Summer Discounts on Maruti Celerio, Celerio 2025 On Road Price, Maruti Celerio April 2025 Offers, Maruti Celerio Service Center April 2025, Maruti Celerio Price in Hyderabad, Maruti Celerio On Road Price Hyderabad, Exclusive Summer Offers on Maruti Celerio 2025, Celerio 2025 Special Discounts, Maruti Celerio 2025 Limited-Time Offers, Maruti Suzuki Celerio 2025 Price and Offers, Celerio 2025 Offers in Hyderabad, Maruti Suzuki Celerio 2025 Summer Deals, Celerio 2025 Price and On Road Price in Hyderabad, Maruti Celerio 2025 Summer Savings, Maruti Suzuki Celerio 2025 Summer Promotions, Maruti Suzuki Celerio 2025 Service Center Near Me, 2025 Celerio Summer Deals, Maruti Suzuki Celerio Summer 2025 Offers."
         />
 
         <meta name="author" content="Broaddcast" />
@@ -42,22 +41,22 @@ function CelerioCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Celerio CNG Price in Hyderabad | Alto CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Celerio CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.73 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Celerio CNG – Limited-Time Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Celerio CNG in Secunderabad & Hyderabad. Celerio CNG Mileage . Best price & offers on Maruti Celerio at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Celerio CNG online"
+          content="Maruti Celerio CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Celerio CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Celerio CNG online and take advantage of these fantastic summer deals!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Celerio CNG Price in Hyderabad | Celerio CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Celerio CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.73 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Celerio CNG – Limited-Time Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Celerio CNG in Secunderabad & Hyderabad. Celerio CNG Mileage . Best price & offers on Maruti Celerio at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Celerio CNG online"
+          content="Maruti Celerio CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Celerio CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Celerio CNG online and take advantage of these fantastic summer deals!"
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

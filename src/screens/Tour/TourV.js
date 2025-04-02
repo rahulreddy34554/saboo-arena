@@ -17,19 +17,19 @@ function TourV() {
     <>
       <Helmet>
         <title>
-        Maruti Suzuki Eeco Tour V Commercial – Starting at ₹4.96 Lakh at RKS Motor!
+        Maruti Suzuki Eeco Tour V Commercial – Unbeatable April Offers at ₹4.96 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content=" Maruti Suzuki Eeco Tour V Commercial – Starting at ₹4.96 Lakh at RKS Motor!"
+          content="Maruti Suzuki Eeco Tour V Commercial – Unbeatable April Offers at ₹4.96 Lakh at RKS Motor!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Eeco Tour V commercial is available in CNG and petrol engine option. Know more about the Tour V mileage, features, specifications, performance,exterior and interior of Tour V Commercial at Saboo Maruti Suzuki Commercial. "
+          content="Explore the Maruti Suzuki Eeco Tour V Commercial with CNG and petrol engine options at Saboo Maruti Suzuki Commercial. Enjoy amazing 2025 discounts and festive offers! Get the best price, mileage, features, and performance details for the Eeco Tour V. Visit us today to learn more about the Tour V’s specifications, exterior, and interior."
         />
         <meta
           name="keywords"
-          content="eeco on road price, eeco offers, eeco price, eeco service center, maruti eeco on road price, maruti eeco offers, maruti eeco price, maruti eeco service center, maruti eeco service center near me, maruti suzuki eeco price, maruti suzuki eeco on road price, maruti suzuki eeco offers,maruti suzuki eeco, eeco on road price, eeco 2025 offers, eeco 2025 price, eeco on road price in hyderabad, breza offers in hyderabad, eeco price in hyderabad, maruti eeco 2025 price, maruti eeco 2025 on road price, maruti eeco 2025 offers, maruti eeco 2025 price in hyderabad, maruti eeco 2025 on road price in hyderabad, Maruti Suzuki eeco 2025 price, Maruti Suzuki eeco 2025 on road price, maruti suzuki eeco 2025 offers,  vitara eeco offers, Vitara eeco price, vitara eeco on road price, vitara eeco 2025 offers, vitara eeco 2025 price, vitara eeco 2025 on road price, vitara eeco 2025 offers,Mahashivratri offers, Valentine's Day deals"
+          content="Eeco On Road Price, Eeco Offers, Eeco Price, Eeco Service Center, Maruti Eeco On Road Price, Maruti Eeco Offers, Maruti Eeco Price, Maruti Eeco Service Center, Maruti Eeco Service Center Near Me, Maruti Suzuki Eeco Price, Maruti Suzuki Eeco On Road Price, Maruti Suzuki Eeco Offers, Maruti Suzuki Eeco, Eeco 2025 Offers, Eeco 2025 Price, Eeco On Road Price in Hyderabad, Eeco Price in Hyderabad, Maruti Eeco 2025 Price, Maruti Eeco 2025 On Road Price, Maruti Eeco 2025 Offers, Maruti Eeco 2025 Price in Hyderabad, Maruti Eeco 2025 On Road Price in Hyderabad, Maruti Suzuki Eeco 2025 Price, Maruti Suzuki Eeco 2025 On Road Price, Maruti Suzuki Eeco 2025 Offers, Vitara Eeco Offers, Vitara Eeco Price, Vitara Eeco On Road Price, Vitara Eeco 2025 Offers, Vitara Eeco 2025 Price, Vitara Eeco 2025 On Road Price."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function TourV() {
         />
         <meta
           property="og:title"
-          content="Maruti Suzuki Eeco Tour V Commercial | Commercial Eeco Tour V Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki Eeco Tour V Commercial – Unbeatable April Offers at ₹4.96 Lakh at RKS Motor!"
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki Eeco Tour V commercial is available in CNG and petrol engine option. Know more about the Tour V mileage, features, specifications, performance,exterior and interior of Tour V Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Eeco Tour V Commercial with CNG and petrol engine options at Saboo Maruti Suzuki Commercial. Enjoy amazing 2025 discounts and festive offers! Get the best price, mileage, features, and performance details for the Eeco Tour V. Visit us today to learn more about the Tour V’s specifications, exterior, and interior."
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki Eeco Tour V Commercial | Commercial Eeco Tour V Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki Eeco Tour V Commercial – Unbeatable April Offers at ₹4.96 Lakh at RKS Motor!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki Eeco Tour V commercial is available in CNG and petrol engine option. Know more about the Tour V mileage, features, specifications, performance,exterior and interior of Tour V Commercial at Saboo Maruti Suzuki Commercial."
+          content="Explore the Maruti Suzuki Eeco Tour V Commercial with CNG and petrol engine options at Saboo Maruti Suzuki Commercial. Enjoy amazing 2025 discounts and festive offers! Get the best price, mileage, features, and performance details for the Eeco Tour V. Visit us today to learn more about the Tour V’s specifications, exterior, and interior."
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

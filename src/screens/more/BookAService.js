@@ -29,9 +29,9 @@ const serviceBanners = [
   //   link: '',
   // },
   {
-    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
-    mobileImg: require('../../assets/banners/WM_Maruti_Suzuki_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
-    alt: 'Sankranti',
+    desktopImg: require('../../assets/banners/March-Service-Banner-website.jpg'),
+    mobileImg: require('../../assets/banners/March Service Banner Mobile.webp'),
+    alt: 'summer',
     link: '',
   },
 ];
@@ -41,43 +41,41 @@ function BookAService() {
     <>
       <Helmet>
         <title>
-          12 Saboo Maruti Suzuki Car Showrooms & Service Centers in Hyderabad |
-          Book Maruti Car Service Online | Saboo Maruti
+        2025 Summer Service Offers at Saboo Maruti Suzuki | 12 Showrooms & Service Centers in Hyderabad
         </title>
         <meta
           name='title'
-          content='  12 Saboo Maruti Suzuki Car Service Centers in Hyderabad | Book Maruti
-          Car Service Online'
+          content=' 2025 Summer Service Offers at Saboo Maruti Suzuki | 12 Showrooms & Service Centers in Hyderabad'
         />
         <meta
           name='description'
-          content='Find 12 Showrooms of Maruti Suzuki Saboo Service Across Hyderabad With Address And Contact Details. where You Can Buy New & Used Cars, Cars Insurance, Car Finance & Car Servicing. Book Now. Call 98488 98488 Saboo Maruti  '
+          content='Explore 12 Saboo Maruti Suzuki Showrooms & Service Centers across Hyderabad. Get exclusive summer offers on new & used cars, car insurance, car finance, and expert car servicing. Visit us today and enjoy special discounts and deals. For more information or to book a service, call us at 98488 98488 Saboo Maruti! '
         />
         <meta
           name='keywords'
-          content='vitara brezza service in hyderabad, vitara brezza service centers, vitara brezza service ceneter near me,vitara brezza workshops near me, vitara brezza workshops,  vitara brezza body shop, vitara brezza bodyshop near me, vitara brezza bodyshop in hyderabad, maruti vitara brezza service, maruti vitara brezza service hyderabad, maruti vitara brezza service centers near me, maruti suzuki vitara brezza service, maruti suzki vitara brezza service centers near me, maruti suzuki vitara brezza workshops , maruti suzuki vitara brezza workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki vitara brezza service center hyderabad, maruti suzuki vitara brezza workshop hyderabad, maruti suzuki vitara brezza bodyshop workshop hyderabad,brezza service in hyderabad, brezza service centers, brezza service ceneter near me,brezza workshops near me, brezza workshops,  brezza body shop, brezza bodyshop near me, brezza bodyshop in hyderabad, maruti brezza service, maruti brezza service hyderabad, maruti brezza service centers near me, maruti suzuki brezza service, maruti suzki brezza service centers near me, maruti suzuki brezza workshops , maruti suzuki brezza workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki brezza service center hyderabad, maruti suzuki brezza workshop hyderabad, maruti suzuki brezza bodyshop workshop hyderabad,wagno r service in hyderabad, wagno r service centers, wagno r service ceneter near me,wagno r workshops near me, wagno r workshops,  wagno r body shop, wagno r bodyshop near me, wagno r bodyshop in hyderabad, maruti wagno r service, maruti wagno r service hyderabad, maruti wagno r service centers near me, maruti suzuki wagno r service, maruti suzki wagno r service centers near me, maruti suzuki wagno r workshops , maruti suzuki wagno r workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki wagno r service center hyderabad, maruti suzuki wagno r workshop hyderabad, maruti suzuki wagno r bodyshop workshop hyderabad,eeco service in hyderabad, eeco service centers, eeco service ceneter near me,eeco workshops near me, eeco workshops,  eeco body shop, eeco bodyshop near me, eeco bodyshop in hyderabad, maruti eeco service, maruti eeco service hyderabad, maruti eeco service centers near me, maruti suzuki eeco service, maruti suzki eeco service centers near me, maruti suzuki eeco workshops , maruti suzuki eeco workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki eeco service center hyderabad, maruti suzuki eeco workshop hyderabad, maruti suzuki eeco bodyshop workshop hyderabad,ertiga service in hyderabad, ertiga service centers, ertiga service ceneter near me,ertiga workshops near me, ertiga workshops,  ertiga body shop, ertiga bodyshop near me, ertiga bodyshop in hyderabad, maruti ertiga service, maruti ertiga service hyderabad, maruti ertiga service centers near me, maruti suzuki ertiga service, maruti suzki ertiga service centers near me, maruti suzuki ertiga workshops , maruti suzuki ertiga workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki ertiga service center hyderabad, maruti suzuki ertiga workshop hyderabad, maruti suzuki ertiga bodyshop workshop hyderabad,dzire service in hyderabad, dzire service centers, dzire service ceneter near me,dzire workshops near me, dzire workshops,  dzire body shop, dzire bodyshop near me, dzire bodyshop in hyderabad, maruti dzire service, maruti dzire service hyderabad, maruti dzire service centers near me, maruti suzuki dzire service, maruti suzki dzire service centers near me, maruti suzuki dzire workshops , maruti suzuki dzire workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki dzire service center hyderabad, maruti suzuki dzire workshop hyderabad, maruti suzuki dzire bodyshop workshop hyderabad,celerio service in hyderabad, celerio service centers, celerio service ceneter near me,celerio workshops near me, celerio workshops,  celerio body shop, celerio bodyshop near me, celerio bodyshop in hyderabad, maruti celerio service, maruti celerio service hyderabad, maruti celerio service centers near me, maruti suzuki celerio service, maruti suzki celerio service centers near me, maruti suzuki celerio workshops , maruti suzuki celerio workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki celerio service center hyderabad, maruti suzuki celerio workshop hyderabad, maruti suzuki celerio bodyshop workshop hyderabad,spresso service in hyderabad, spresso service centers, spresso service ceneter near me,spresso workshops near me, spresso workshops,  spresso body shop, spresso bodyshop near me, spresso bodyshop in hyderabad, maruti spresso service, maruti spresso service hyderabad, maruti spresso service centers near me, maruti suzuki spresso service, maruti suzki spresso service centers near me, maruti suzuki spresso workshops , maruti suzuki spresso workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki spresso service center hyderabad, maruti suzuki spresso workshop hyderabad, maruti suzuki spresso bodyshop workshop hyderabad,Maruti Suzuki Service Center,swift service in hyderabad, swift service centers, swift service ceneter near me,swift workshops near me, swift workshops,  swift body shop, swift bodyshop near me, swift bodyshop in hyderabad, maruti swift service, maruti swift service hyderabad, maruti swift service centers near me, maruti suzuki swift service, maruti suzki swift service centers near me, maruti suzuki swift workshops , maruti suzuki swift workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki swift service center hyderabad, maruti suzuki swift workshop hyderabad, maruti suzuki swift bodyshop workshop hyderabad, Maruti Car Service, Maruti Service Center Near Me, Maruti Service Centers in Hyderabad, Maruti Authorized Service Center Near Me,alto service in hyderabad, alto service centers, alto service ceneter near me,alto workshops near me, alto workshops,  alto body shop, alto bodyshop near me, alto bodyshop in hyderabad, maruti alto service, maruti alto service hyderabad, maruti alto service centers near me, maruti suzuki alto service, maruti suzki alto service centers near me, maruti suzuki alto workshops , maruti suzuki alto workshops in hyderabad, maruti suzuki workshop near me,maruti suuzki alto service center hyderabad, maruti suzuki alto workshop hyderabad, maruti suzuki alto bodyshop workshop hyderabad, 2024 Car service offers,Ganesh Chaturthi Service offers '
+          content='Maruti Suzuki Summer Service Offers, Best Car Service Deals for Summer,Maruti Car Service Center near me , Maruti Car Maintenance Discounts, Summer Car Service Packages, Vitara Brezza Summer Service Offers, Wagon R Summer Car Care Deals, Maruti Swift Summer Maintenance Packages, Maruti Alto AC Checkup Offers, Ertiga Free Summer Car Inspection, Maruti Suzuki Service Centers in Hyderabad, Best Car Service Workshops Near Me, Authorized Maruti Suzuki Body Shop Hyderabad, Car AC Service Discounts, Coolant Check & Refill Offers, Summer Car Battery Checkup, Tire Inspection & Replacement Deals.'
         />
         <meta name='author' content='BroaddCast' />
         <meta property='og:type' content='website' />
         <meta property='og:url' content='https://www.saboomaruti.in/' />
         <meta
           property='og:title'
-          content='Maruti Suzuki Authorized Dealers in Hyderabad & Secunderabad | Saboo Maruti'
+          content='2025 Summer Service Offers at Saboo Maruti Suzuki | 12 Showrooms & Service Centers in Hyderabad'
         />
         <meta
           property='og:description'
-          content='Saboo Maruti is an authorized Maruti Suzuki service center in Hyderabad. Visit your nearest authorized Maruti Car Service Center. We offer free pickup & drop facility. To Book car service Appointment Today Call us on 9848898488'
+          content='SExplore 12 Saboo Maruti Suzuki Showrooms & Service Centers across Hyderabad. Get exclusive summer offers on new & used cars, car insurance, car finance, and expert car servicing. Visit us today and enjoy special discounts and deals. For more information or to book a service, call us at 98488 98488 Saboo Maruti!'
         />
         <meta property='og:image' content='img/og-tags/saboo_rks.jpg' />
         <meta property='twitter:card' content='summary_large_image' />
         <meta property='twitter:url' content='https://x.com/saboorksmaruti' />
         <meta
           property='twitter:title'
-          content='Maruti Suzuki Authorized Dealers in Hyderabad & Secunderabad | Saboo Maruti'
+          content='2025 Summer Service Offers at Saboo Maruti Suzuki | 12 Showrooms & Service Centers in Hyderabad'
         />
         <meta
           property='twitter:description'
-          content='Saboo Maruti is an authorized Maruti Suzuki service center in Hyderabad. Visit your nearest authorized Maruti Car Service Center. We offer free pickup & drop facility. To Book car service Appointment Today Call us on 9848898488'
+          content='Explore 12 Saboo Maruti Suzuki Showrooms & Service Centers across Hyderabad. Get exclusive summer offers on new & used cars, car insurance, car finance, and expert car servicing. Visit us today and enjoy special discounts and deals. For more information or to book a service, call us at 98488 98488 Saboo Maruti!'
         />
         <meta property='twitter:image' content='img/og-tags/saboo_rks.jpg' />
       </Helmet>

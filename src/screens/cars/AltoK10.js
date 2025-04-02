@@ -31,19 +31,19 @@ function AltoK10() {
     <>
       <Helmet>
         <title>
-        Maruti Exclusive 2025 Discounts and March Holi & Ugadi Specials on Maruti Alto K10 | Best Deals at RKS Motor
+        🚗 Maruti Alto K10 2025 – Best Summer Deals & Exclusive Discounts at RKS Motor! 🌞
         </title>
         <meta
           name="title"
-          content=" Maruti Exclusive 2025 Discounts and March Holi & Ugadi Specials on Maruti Alto K10 | Best Deals at RKS Motor"
+          content="🚗 Maruti Alto K10 2025 – Best Summer Deals & Exclusive Discounts at RKS Motor! 🌞"
         />
         <meta
           name="description"
-          content="Discover incredible 2025 Discounts and March Holi & Ugadi Offers on Maruti Alto K10 in 2025! Special discounts for Holi & Ugadi, low EMIs, and limited-time deals on your favorite models. Hurry, book now and celebrate the season with unbeatable savings!"
+          content="Enjoy exclusive 2025 discounts, low EMIs, and limited-time deals on your favorite Maruti Alto K10 models. Don't miss out on the best summer offers of the season—book now and drive home with unbeatable savings! 🚗💨"
         />
         <meta
           name="keywords"
-          content="Alto K10 On Road Price, March Holi & Ugadi Offers, Alto K10 Price, Alto K10 Service Center, Maruti Alto K10 2025 Discounts, Alto K10 Festive Offers, Maruti Alto K10 Price in Hyderabad, Alto K10 On Road Price in Hyderabad, Maruti Suzuki Alto K10 2025 Offers, Alto K10 2025 Price, Alto K10 2025 Mileage, Alto K10 2025 Specifications, Alto K10 2025 Reviews, Alto K10 2025 Images, Alto K10 2025 Colors, Maruti Suzuki Alto K10 2025 Price, Alto K10 VXI On Road Price, Alto K10 2025 Price in Hyderabad, Maruti Alto K10 Offers, Vitara Alto K10 Price, Vitara Alto K10 Offers, 2025 Discounts on Alto K10, Alto K10 2025 on Road Price, Alto K10 2025 Festive Deals, Alto K10 Special Holi & Ugadi Discounts, Alto K10 2025 Limited-time Offers"
+          content="Alto K10 On Road Price, April Summer Offers on Alto K10, Alto K10 Price, Alto K10 Summer Discounts 2025, Alto K10 Service Center, Maruti Alto K10 2025 Summer Deals, Alto K10 Special Offers, Maruti Alto K10 Price in Hyderabad, Alto K10 On Road Price in Hyderabad, Maruti Suzuki Alto K10 2025 Summer Offers, Alto K10 2025 Price, Alto K10 2025 Mileage, Alto K10 2025 Specifications, Alto K10 2025 Reviews, Alto K10 2025 Best Deals, Alto K10 2025 Images, Alto K10 2025 Colors, Maruti Suzuki Alto K10 2025 April Discounts, Alto K10 VXI On Road Price, Alto K10 2025 Price in Hyderabad, Maruti Alto K10 Exclusive Summer Discounts, Vitara Alto K10 April Offers, Vitara Alto K10 Price, 2025 Hot Summer Deals on Alto K10, Alto K10 2025 On Road Price, Alto K10 April Special Offers, Alto K10 2025 Limited-Time Deals, Best April 2025 Alto K10 Discounts"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -53,22 +53,22 @@ function AltoK10() {
         />
         <meta
           property="og:title"
-          content=" Maruti Exclusive 2025 Discounts and March Holi & Ugadi Specials on Maruti Alto K10 | Best Deals at RKS Motor"
+          content="  Maruti Alto K10 2025 – Best Summer Deals & Exclusive Discounts at RKS Motor! "
         />
         <meta
           property="og:description"
-          content="Discover incredible 2025 Discounts and March Holi & Ugadi Offers on Maruti Alto K10 in 2025! Special discounts for Holi & Ugadi, low EMIs, and limited-time deals on your favorite models. Hurry, book now and celebrate the season with unbeatable savings!"
+          content="Enjoy exclusive 2025 discounts, low EMIs, and limited-time deals on your favorite Maruti Alto K10 models. Don't miss out on the best summer offers of the season—book now and drive home with unbeatable savings! "
         />
         <meta property="og:image" content="img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content=" Maruti Exclusive 2025 Discounts and March Holi & Ugadi Specials on Maruti Alto K10 | Best Deals at RKS Motor"
+          content=" Maruti Alto K10 2025 – Best Summer Deals & Exclusive Discounts at RKS Motor!"
         />
         <meta
           property="twitter:description"
-          content="Discover incredible 2025 Discounts and March Holi & Ugadi Offers on Maruti Alto K10 in 2025! Special discounts for Holi & Ugadi, low EMIs, and limited-time deals on your favorite models. Hurry, book now and celebrate the season with unbeatable savings!"
+          content="Enjoy exclusive 2025 discounts, low EMIs, and limited-time deals on your favorite Maruti Alto K10 models. Don't miss out on the best summer offers of the season—book now and drive home with unbeatable savings! "
         />
         <meta property="twitter:image" content="img/og-tags/alto.webp" />
       </Helmet>

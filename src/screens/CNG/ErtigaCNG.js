@@ -17,19 +17,19 @@ function ErtigaCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Ertiga CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor.
+        Maruti Ertiga CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 10.78 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Ertiga CNG – Limited-Time Deals!
         </title>
         <meta
           name="title"
-          content=" Maruti Ertiga CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor. | Maruti Ertiga CNG Offers"
+          content="  Maruti Ertiga CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 10.78 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Ertiga CNG – Limited-Time Deals!"
         />
         <meta
           name="description"
-          content="Maruti Ertiga CNG in Secunderabad & Hyderabad. Ertiga CNG Mileage 31.12KMPL. Best price & offers on Maruti Ertiga at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Ertiga online. "
+          content="Get the best 2025 summer offers on Maruti Ertiga CNG in Secunderabad & Hyderabad! With an impressive mileage of 31.12 KMPL, the Ertiga CNG is the perfect blend of space, efficiency, and comfort. Enjoy unbeatable prices, exclusive deals, and flexible finance options at Saboo Maruti. Visit your nearest showroom today or check the on-road price online!"
         />
       <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, Ertiga On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Ertiga Price, Ertiga Service Center, Maruti Ertiga On Road Price, Maruti Ertiga Offers, Maruti Ertiga Price, Maruti Ertiga Service Center, Maruti Ertiga Service Center Near Me, Maruti Suzuki Ertiga Price, Maruti Suzuki Ertiga On Road Price, Maruti Suzuki Ertiga Offers, Maruti Suzuki Ertiga, Ertiga 2025 Offers, Ertiga 2025 Price, Ertiga On Road Price in Hyderabad, Ertiga Offers in Hyderabad, Ertiga Price in Hyderabad, Maruti Ertiga 2025 Price, Maruti Ertiga 2025 On Road Price, Maruti Ertiga 2025 Offers, Maruti Ertiga 2025 Price in Hyderabad, Maruti Ertiga 2025 On Road Price in Hyderabad, Maruti Suzuki Ertiga 2025 Price, Maruti Suzuki Ertiga 2025 On Road Price, Maruti Suzuki Ertiga 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Ertiga Discounts, Maruti Suzuki Ertiga 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Summer Offers and Festive Discounts, Ertiga On Road Price, Ertiga Price, Ertiga Service Center, Maruti Ertiga On Road Price, Maruti Ertiga Summer Offers, Maruti Ertiga Price, Maruti Ertiga Service Center, Maruti Ertiga Service Center Near Me, Maruti Suzuki Ertiga Price, Maruti Suzuki Ertiga On Road Price, Maruti Suzuki Ertiga Summer Discounts, Maruti Suzuki Ertiga, Ertiga 2025 Summer Deals, Ertiga 2025 Price, Ertiga On Road Price in Hyderabad, Ertiga Summer Offers in Hyderabad, Ertiga Price in Hyderabad, Maruti Ertiga 2025 Price, Maruti Ertiga 2025 On Road Price, Maruti Ertiga 2025 Summer Discounts, Maruti Ertiga 2025 Price in Hyderabad, Maruti Ertiga 2025 On Road Price in Hyderabad, Maruti Suzuki Ertiga 2025 Price, Maruti Suzuki Ertiga 2025 On Road Price, Maruti Suzuki Ertiga 2025 Summer Offers, Vitara Summer Discounts."
         />
 
         
@@ -42,22 +42,22 @@ function ErtigaCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad| Ertiga CNG  Mileage, Features, Specification | Saboo Maruti"
+          content=" Maruti Ertiga CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 10.78 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Ertiga CNG – Limited-Time Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Ertiga CNG in Secunderabad & Hyderabad. Ertiga CNG Mileage 31.12KMPL. Best price & offers on Maruti Ertiga at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Ertiga online."
+          content="Get the best 2025 summer offers on Maruti Ertiga CNG in Secunderabad & Hyderabad! With an impressive mileage of 31.12 KMPL, the Ertiga CNG is the perfect blend of space, efficiency, and comfort. Enjoy unbeatable prices, exclusive deals, and flexible finance options at Saboo Maruti. Visit your nearest showroom today or check the on-road price online!"
         />
         {/* <meta property='og:image' content='../img/og-tags/dzire.webp' /> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad| Ertiga CNG  Mileage, Features, Specification | Saboo Maruti"
+          content=" Maruti Ertiga CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 10.78 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Ertiga CNG – Limited-Time Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Ertiga CNG in Secunderabad & Hyderabad. Ertiga CNG Mileage 31.12KMPL. Best price & offers on Maruti Ertiga at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Ertiga online."
+          content="Get the best 2025 summer offers on Maruti Ertiga CNG in Secunderabad & Hyderabad! With an impressive mileage of 31.12 KMPL, the Ertiga CNG is the perfect blend of space, efficiency, and comfort. Enjoy unbeatable prices, exclusive deals, and flexible finance options at Saboo Maruti. Visit your nearest showroom today or check the on-road price online!"
         />
         {/* <meta property='twitter:image' content='../img/og-tags/dzire.webp' /> */}
       </Helmet>

@@ -29,19 +29,19 @@ function Eeco() {
     <>
       <Helmet>
         <title>
-        Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor
+        Get Maruti Eeco at Unbeatable Prices – April 2025 Summer Discounts at RKS Motor!  Exclusive April 2025 Offers on Maruti Eeco – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor"
+          content="  Get Maruti Eeco at Unbeatable Prices – April 2025 Summer Discounts at RKS Motor!  Exclusive April 2025 Offers on Maruti Eeco – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
+          content=" Don’t Miss Maruti Suzuki’s Exclusive 2025 Summer Discounts on EECO this April! Avail special prices, limited-time summer offers, and flexible financing options on the Maruti Suzuki EECO. Act fast and make the most of these April 2025 savings before stock runs out!"
         />
         <meta
           name="keywords"
-          content="Maruti Car Offers, Holi & Ugadi 2025 Discounts, Maruti 2025 Year Offers, Saboo Maruti, RKS Motor, EECO 2025 Discounts, Maruti Suzuki 2025 Festive Offers, Maruti EECO Holi & Ugadi Deals, Maruti Car Deals 2025, Maruti Holi & Ugadi Offers, Maruti Suzuki Offers 2025, RKS Motor Maruti Offers, Saboo Maruti Holi & Ugadi Deals, Maruti 2025 Special Discounts, EECO Limited-time Festive Offers, Maruti 2025 Year-End Deals"
+          content="Maruti Car Offers, April 2025 Summer Discounts on Maruti Cars, Maruti EECO 2025 Summer Offers, Maruti Suzuki 2025 Summer Deals, Saboo Maruti April 2025 Offers, RKS Motor April Summer Discounts, EECO 2025 Limited-Time Summer Offers, Maruti Suzuki 2025 Summer Festive Offers, Maruti EECO April Deals, Maruti Car Deals April 2025, Maruti Suzuki Offers 2025, RKS Motor Maruti Summer Discounts, Saboo Maruti April Summer Specials, Maruti 2025 Exclusive Summer Discounts, EECO April 2025 Limited-Time Offers, Maruti 2025 Summer Year-End Deals."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -51,22 +51,22 @@ function Eeco() {
         />
         <meta
           property="og:title"
-          content="Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor."
+          content="  Get Maruti Eeco at Unbeatable Prices – April 2025 Summer Discounts at RKS Motor!  Exclusive April 2025 Offers on Maruti Eeco – Limited-Time Summer Deals!"
         />
         <meta
           property="og:description"
-          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
+          content="Don’t Miss Maruti Suzuki’s Exclusive 2025 Summer Discounts on EECO this April! Avail special prices, limited-time summer offers, and flexible financing options on the Maruti Suzuki EECO. Act fast and make the most of these April 2025 savings before stock runs out!"
         />
         <meta property="og:image" content="img/og-tags/eeco.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and festive Offers at RKS Motor."
+          content="  Get Maruti Eeco at Unbeatable Prices – April 2025 Summer Discounts at RKS Motor!  Exclusive April 2025 Offers on Maruti Eeco – Limited-Time Summer Deals!"
         />
         <meta
           property="twitter:description"
-          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
+          content="Don’t Miss Maruti Suzuki’s Exclusive 2025 Summer Discounts on EECO this April! Avail special prices, limited-time summer offers, and flexible financing options on the Maruti Suzuki EECO. Act fast and make the most of these April 2025 savings before stock runs out!"
         />
         <meta property="twitter:image" content="img/og-tags/eeco.webp" />
       </Helmet>

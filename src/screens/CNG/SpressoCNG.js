@@ -17,20 +17,20 @@ function SpressoCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Spresso CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor.
+        Maruti S-Presso CNG 2025 Summer Offers & On-Road Price in Hyderabad – Starts at ₹10.78 Lakh | RKS Motor
         </title>
         <meta
           name="title"
-          content=" Maruti Spresso CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor."
+          content="Maruti S-Presso CNG 2025 Summer Offers & On-Road Price in Hyderabad – Starts at ₹10.78 Lakh | RKS Motor"
         />
         <meta
           name="description"
-          content="Maruti Spresso CNG in Secunderabad & Hyderabad. Spresso CNG Mileage 34.05KMPL. Best price & offers on Maruti Spresso at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Spresso online. "
+          content="Get the best 2025 Summer Offers on Maruti S-Presso CNG in Hyderabad & Secunderabad! With an impressive mileage of 34.05 KMPL, the S-Presso offers great fuel efficiency. Avail exclusive discounts, easy financing options, and unbeatable deals at Saboo Maruti. Visit your nearest showroom today or check the on-road price online! "
         />
 
 <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, S-Presso On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, S-Presso Price, S-Presso Service Center, Maruti S-Presso On Road Price, Maruti S-Presso Offers, Maruti S-Presso Price, Maruti S-Presso Service Center, Maruti S-Presso Service Center Near Me, Maruti Suzuki S-Presso Price, Maruti Suzuki S-Presso On Road Price, Maruti Suzuki S-Presso Offers, Maruti Suzuki S-Presso, S-Presso 2025 Offers, S-Presso 2025 Price, S-Presso On Road Price in Hyderabad, S-Presso Offers in Hyderabad, S-Presso Price in Hyderabad, Maruti S-Presso 2025 Price, Maruti S-Presso 2025 On Road Price, Maruti S-Presso 2025 Offers, Maruti S-Presso 2025 Price in Hyderabad, Maruti S-Presso 2025 On Road Price in Hyderabad, Maruti Suzuki S-Presso 2025 Price, Maruti Suzuki S-Presso 2025 On Road Price, Maruti Suzuki S-Presso 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri S-Presso Discounts, Maruti Suzuki S-Presso 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Discounts and Festive Offers, S-Presso On Road Price, S-Presso Price, S-Presso Service Center, Maruti S-Presso On Road Price, Maruti S-Presso Offers, Maruti S-Presso Price, Maruti S-Presso Service Center, Maruti S-Presso Service Center Near Me, Maruti Suzuki S-Presso Price, Maruti Suzuki S-Presso On Road Price, Maruti Suzuki S-Presso Offers, Maruti Suzuki S-Presso, S-Presso 2025 Offers, S-Presso 2025 Price, S-Presso On Road Price in Hyderabad, S-Presso Offers in Hyderabad, S-Presso Price in Hyderabad, Maruti S-Presso 2025 Price, Maruti S-Presso 2025 On Road Price, Maruti S-Presso 2025 Offers, Maruti S-Presso 2025 Price in Hyderabad, Maruti S-Presso 2025 On Road Price in Hyderabad, Maruti Suzuki S-Presso 2025 Price, Maruti Suzuki S-Presso 2025 On Road Price, Maruti Suzuki S-Presso 2025 Offers, Vitara Offers, Summer Car Sale 2025, 2025 Summer Discounts on Maruti Suzuki"
         />
 
         <meta name="author" content="Broaddcast" />
@@ -41,22 +41,22 @@ function SpressoCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Spresso CNG On Road Price in Secunderabad, Hyderabad & 2022 Offers | Saboo Maruti"
+          content="Maruti S-Presso CNG 2025 Summer Offers & On-Road Price in Hyderabad – Starts at ₹10.78 Lakh | RKS Motor"
         />
         <meta
           property="og:description"
-          content="Maruti Spresso CNG in Secunderabad & Hyderabad. Spresso CNG Mileage 34.05KMPL. Best price & offers on Maruti Spresso at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Spresso online"
+          content="Get the best 2025 Summer Offers on Maruti S-Presso CNG in Hyderabad & Secunderabad! With an impressive mileage of 34.05 KMPL, the S-Presso offers great fuel efficiency. Avail exclusive discounts, easy financing options, and unbeatable deals at Saboo Maruti. Visit your nearest showroom today or check the on-road price online!"
         />
         {/* <meta property='og:image' content='../img/og-tags/wagonr.webp' /> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki AltMaruti Spresso CNG On Road Price in Secunderabad, Hyderabad & 2022 Offers | Saboo Maruti"
+          content="Maruti S-Presso CNG 2025 Summer Offers & On-Road Price in Hyderabad – Starts at ₹10.78 Lakh | RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Maruti Spresso CNG in Secunderabad & Hyderabad. Spresso CNG Mileage 34.05KMPL. Best price & offers on Maruti Spresso at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Spresso online"
+          content="Get the best 2025 Summer Offers on Maruti S-Presso CNG in Hyderabad & Secunderabad! With an impressive mileage of 34.05 KMPL, the S-Presso offers great fuel efficiency. Avail exclusive discounts, easy financing options, and unbeatable deals at Saboo Maruti. Visit your nearest showroom today or check the on-road price online!"
         />
         {/* <meta property='twitter:image' content='../img/og-tags/wagonr.webp' /> */}
       </Helmet>

@@ -31,19 +31,19 @@ function Swift() {
     <>
       <Helmet>
         <title>
-        Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor
+        Maruti Suzuki Swift 2025 Summer Discounts – Bold & Dynamic at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki Swift – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content=" Maruti Suzuki Swift 2025 Summer Discounts – Bold & Dynamic at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki Swift – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
+          content="Drive Home the Maruti Suzuki Swift with Exclusive April 2025 Summer Discounts at Saboo RKS! Known for its bold looks and dynamic performance, the Maruti Suzuki Swift is now available with limited-time April summer offers and unbeatable savings. Book now and celebrate the season with fantastic deals!"
         />
         <meta
           name="keywords"
-          content="Maruti Swift Offer, Swift 2025 Discounts and Holi & Ugadi Festive Offers, 2025 Car Purchase Discounts, Bold Hatchback Discount, Maruti Suzuki Swift Deals, Arena Swift Offer, 2025 Holi & Ugadi Car Sale, Maruti Swift 2025 Limited-time Offers, Swift 2025 Special Discounts, Maruti Swift Holi & Ugadi Deals, Maruti Suzuki Swift 2025 Offers, Swift Festive Savings, Maruti Swift 2025 Holi & Ugadi Promotions."
+          content="Maruti Swift Offer, April 2025 Summer Discounts on Maruti Swift, Swift 2025 Summer Offers, Bold Hatchback Summer Discount, Maruti Suzuki Swift April Deals, Arena Swift Summer Offers, 2025 Summer Car Purchase Discounts, Maruti Swift 2025 Limited-Time Summer Offers, Swift 2025 Special Summer Discounts, Maruti Swift April Savings, Swift Summer Deals 2025, Maruti Swift 2025 Summer Promotions, Swift Festive Summer Savings."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -53,11 +53,11 @@ function Swift() {
         />
         <meta
           property="og:title"
-          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content=" Maruti Suzuki Swift 2025 Summer Discounts – Bold & Dynamic at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki Swift – Limited-Time Summer Deals!"
         />
         <meta
           property="og:description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
+          content="Drive Home the Maruti Suzuki Swift with Exclusive April 2025 Summer Discounts at Saboo RKS! Known for its bold looks and dynamic performance, the Maruti Suzuki Swift is now available with limited-time April summer offers and unbeatable savings. Book now and celebrate the season with fantastic deals!"
         />
         <meta
           property="og:image"
@@ -67,11 +67,11 @@ function Swift() {
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content=" Maruti Suzuki Swift 2025 Summer Discounts – Bold & Dynamic at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki Swift – Limited-Time Summer Deals!"
         />
         <meta
           property="twitter:description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
+          content="Drive Home the Maruti Suzuki Swift with Exclusive April 2025 Summer Discounts at Saboo RKS! Known for its bold looks and dynamic performance, the Maruti Suzuki Swift is now available with limited-time April summer offers and unbeatable savings. Book now and celebrate the season with fantastic deals!"
         />
         <meta property="twitter:image" content="img/og-tags/swift.webp" />
       </Helmet>

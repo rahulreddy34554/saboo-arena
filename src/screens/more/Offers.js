@@ -158,45 +158,41 @@ function Offers() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki 2025 Discounts and festive Offers in Hyderabad at Saboo
-          Maruti Suzuki - RKS Motor
+        Summer Specials & 2025 Discounts at Saboo Maruti Suzuki - RKS Motor Hyderabad
         </title>
         <meta
           name="title"
-          content="  Saboo Maruti 2025 Discounts and festive Offers on
-          New Maruti Suzuki Cars at Saboo Maruti Suzuki - RKS Motor"
+          content=" Summer Specials & 2025 Discounts at Saboo Maruti Suzuki - RKS Motor Hyderabad"
         />
         <meta
           name="description"
-          content="2025 Discounts and festive Offers at Saboo Maruti Suzuki Arena! Don`t miss out on incredible deals and savings. Visit us today to drive home your dream car"
+          content="Summer Offers & 2025 Discounts at Saboo Maruti Suzuki Arena! Get the best deals, savings, and festive offers on your favorite Maruti Suzuki models. Visit us today and drive home your dream car!"
         />
         <meta
           name="keywords"
-          content="2025 Year Maruti offers, maruti exchange January offers, Festival Offfers, January 2025 offers, January offers, maruti car offers, maruti spresso offers, maruti alto offers, maruti wagonr offers, maruti celerio offers, maruti celerio x offers, maruti eeco offers, maruti ertiga offers, maruti brezza offers, maruti swift offers, maruti dzire offers, spresso offers, alto offers, wagonr offers, celerio offers, celerio x offers, ertiga offers, swift offers, dzire offers, brezza offers,eeco offers,2025 Discounts and festive Offers"
+          content="2025 Summer Discounts, Maruti Car Offers, Maruti Spresso Summer Offers, Maruti Alto Summer Offers, Maruti WagonR Summer Offers, Maruti Celerio Summer Offers, Maruti Celerio X Summer Offers, Maruti Eeco Summer Offers, Maruti Ertiga Summer Offers, Maruti Brezza Summer Offers, Maruti Swift Summer Offers, Maruti Dzire Summer Offers, Spresso Summer Offers, Alto Summer Offers, WagonR Summer Offers, Celerio Summer Offers, Celerio X Summer Offers, Ertiga Summer Offers, Swift Summer Offers, Dzire Summer Offers, Brezza Summer Offers, Eeco Summer Offers, 2025 Summer Discounts & Festive Offers"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.saboomaruti.in/" />
         <meta
           property="og:title"
-          content="Offers and discounts during 2025 Year | 2025 Discounts and festive Offers on
-          New Maruti Suzuki Cars at Saboo Maruti Suzuki - RKS Motor"
+          content="Summer Specials & 2025 Discounts at Saboo Maruti Suzuki - RKS Motor Hyderabad"
         />
         <meta
           property="og:description"
-          content="Special occasion on 2025 Discounts and festive Offers at Saboo Maruti Suzuki Arena! Don`t miss out on incredible deals and savings. Visit us today to drive home your dream car"
+          content="Summer Offers & 2025 Discounts at Saboo Maruti Suzuki Arena! Get the best deals, savings, and festive offers on your favorite Maruti Suzuki models. Visit us today and drive home your dream car!"
         />
         <meta property="og:image" content="img/og-tags/offers.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.saboomaruti.in/" />
         <meta
           property="twitter:title"
-          content=" 2025 Discounts and festive Offers | 2025 Discounts and festive Offers on
-          New Maruti Suzuki Cars at Saboo Maruti Suzuki - RKS Motor"
+          content="Summer Specials & 2025 Discounts at Saboo Maruti Suzuki - RKS Motor Hyderabad"
         />
         <meta
           property="twitter:description"
-          content="Special occasion on 2025 Discounts and festive Offers at Saboo Maruti Suzuki Arena! Don`t miss out on incredible deals and savings. Visit us today to drive home your dream car"
+          content="Summer Offers & 2025 Discounts at Saboo Maruti Suzuki Arena! Get the best deals, savings, and festive offers on your favorite Maruti Suzuki models. Visit us today and drive home your dream car!"
         />
         <meta property="twitter:image" content="img/og-tags/offers.webp" />
       </Helmet>

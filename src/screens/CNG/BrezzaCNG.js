@@ -15,19 +15,19 @@ function BrezzaCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Brezza CNG  On Road Price in Hyderabad starts Rs.9.29 Lakh at RKS Motor.
+        Maruti Brezza CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 9.29 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Brezza CNG – Limited-Time Deals!
         </title>
         <meta
           name="title"
-          content="Maruti Brezza CNG  On Road Price in Hyderabad starts Rs.9.29 Lakh at RKS Motor."
+          content=" Maruti Brezza CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 9.29 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Brezza CNG – Limited-Time Deals!"
         />
         <meta
           name="description"
-          content="Maruti Brezza CNG in Secunderabad & Hyderabad. Brezza CNG Mileage . Best price & offers on Maruti Brezza at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Brezza CNG online"
+          content=" Maruti Brezza CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Enjoy the Maruti Brezza CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance facilities, and limited-time discounts. You can also get the On-Road Price for Maruti Brezza CNG online this season!"
         />
         <meta
           name="keywords"
-          content=" 2025 Discounts and festive Offers,brezza on road price, alto offers, brezza price, brezza service center, maruti brezza on road price, maruti brezza offers, maruti brezza price, maruti brezza service center, maruti brezza service center near me, maruti suzuki brezza price, maruti suzuki brezza on road price, maruti suzuki brezza offers,maruti suzuki brezza, brezza on road price, brezza 2025 offers, brezza 2025 price, brezza on road price in hyderabad, breza offers in hyderabad, brezza price in hyderabad, maruti brezza 2025 price, maruti brezza 2025 on road price, maruti brezza 2022 offers, maruti brezza 2025 price in hyderabad, maruti brezza 2025 on road price in hyderabad, Maruti Suzuki brezza 2025 price, Maruti Suzuki brezza 2025 on road price, maruti suzuki brezza 2025 offers,  vitara ˇ offers, Valentine's Day Car Sale 2025,2025 Mahashivaratri Brezza Discounts,Maruti Suzuki Brezza 2025 Valentine Day Deals,Mahashivaratri Offers Maruti Suzuki,Valentine's Day Festive Discounts Maruti"
+          content="2025 Summer Discounts on Maruti Brezza, Brezza 2025 On Road Price, Maruti Brezza April 2025 Offers, Brezza Price and Offers, Brezza Service Center April 2025, Maruti Brezza 2025 Price in Hyderabad, Brezza 2025 On Road Price Hyderabad, Maruti Brezza 2025 Summer Deals, Maruti Brezza Price in Hyderabad, Maruti Suzuki Brezza April 2025 Offers, Maruti Suzuki Brezza 2025 Summer Specials, Brezza Service Center Near Me, Maruti Suzuki Brezza 2025 Summer Savings, Maruti Brezza 2025 Limited-Time Offers, Maruti Suzuki Brezza On Road Price in Hyderabad, Maruti Brezza 2025 Offers in Hyderabad, 2025 Summer Deals on Maruti Brezza, Brezza 2025 Price in Hyderabad, Maruti Brezza Summer 2025 Offers, 2025 Mahashivaratri Offers on Maruti Brezza, Maruti Suzuki Brezza 2025 Summer Sales."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -37,22 +37,22 @@ function BrezzaCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Brezza CNG Price in Hyderabad | Alto CNG Mileage & Specifications | Saboo Maruti"
+          content=" Maruti Brezza CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 9.29 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Brezza CNG – Limited-Time Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Brezza CNG in Secunderabad & Hyderabad. Brezza CNG Mileage . Best price & offers on Maruti Brezza at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Brezza CNG online"
+          content="Maruti Brezza CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Enjoy the Maruti Brezza CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance facilities, and limited-time discounts. You can also get the On-Road Price for Maruti Brezza CNG online this season!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Brezza CNG Price in Hyderabad | Brezza CNG Mileage & Specifications | Saboo Maruti"
+          content=" Maruti Brezza CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 9.29 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Brezza CNG – Limited-Time Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Brezza CNG in Secunderabad & Hyderabad. Brezza CNG Mileage . Best price & offers on Maruti Brezza at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Brezza CNG online"
+          content="Maruti Brezza CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Enjoy the Maruti Brezza CNG with impressive mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance facilities, and limited-time discounts. You can also get the On-Road Price for Maruti Brezza CNG online this season!"
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

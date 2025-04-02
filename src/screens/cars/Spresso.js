@@ -30,19 +30,19 @@ function Spresso() {
     <>
       <Helmet>
         <title>
-        2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor
+        Maruti Suzuki S-Presso 2025 Summer Discounts – Where Style Meets Performance at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki S-Presso – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
+          content=" Maruti Suzuki S-Presso 2025 Summer Discounts – Where Style Meets Performance at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki S-Presso – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
+          content="Celebrate April 2025 Summer Discounts on Maruti Suzuki S-Presso at Saboo RKS! Get the stylish mini-SUV, Maruti Suzuki S-Presso, designed for city adventures, with exclusive April summer offers and limited-time savings. Don't miss out—book now and drive home your dream car this season!"
         />
         <meta
           name="keywords"
-          content="Maruti S-Presso 2025 Discounts and Holi & Ugadi Festive Offers, Maruti S-Presso 2025 Discounts, Maruti Suzuki S-Presso Offers, 2025 Festive Car Deals, Holi & Ugadi Car Discounts, Maruti S-Presso Sale, Compact SUV Discounts, Maruti Suzuki Arena 2025 Offers, 2025 Holi & Ugadi Car Sale, Maruti S-Presso 2025 Limited-time Offers, Maruti Suzuki S-Presso Festive Deals, S-Presso 2025 Offers, Maruti S-Presso Holi & Ugadi Specials"
+          content="Maruti S-Presso 2025 Discounts, April 2025 Summer Offers on Maruti S-Presso, Maruti Suzuki S-Presso April Deals, 2025 Summer Car Discounts, Maruti S-Presso Compact SUV Summer Offers, Maruti Suzuki Arena 2025 Summer Specials, Exclusive April 2025 S-Presso Deals, S-Presso 2025 Summer Savings, Maruti S-Presso Limited-Time Summer Offers, Maruti Suzuki S-Presso April Festive Deals, 2025 Summer Car Sale, Maruti S-Presso April Specials, S-Presso Summer Discounts 2025."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -52,22 +52,22 @@ function Spresso() {
         />
         <meta
           property="og:title"
-          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
+          content=" Maruti Suzuki S-Presso 2025 Summer Discounts – Where Style Meets Performance at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki S-Presso – Limited-Time Summer Deals"
         />
         <meta
           property="og:description"
-          content=": Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
+          content=":Celebrate April 2025 Summer Discounts on Maruti Suzuki S-Presso at Saboo RKS! Get the stylish mini-SUV, Maruti Suzuki S-Presso, designed for city adventures, with exclusive April summer offers and limited-time savings. Don't miss out—book now and drive home your dream car this season!"
         />
         <meta property="og:image" content="img/og-tags/s-presso.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
+          content=" Maruti Suzuki S-Presso 2025 Summer Discounts – Where Style Meets Performance at RKS Motor! Exclusive April 2025 Offers on Maruti Suzuki S-Presso – Limited-Time Summer Deals! "
         />
         <meta
           property="twitter:description"
-          content=":Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
+          content=":Celebrate April 2025 Summer Discounts on Maruti Suzuki S-Presso at Saboo RKS! Get the stylish mini-SUV, Maruti Suzuki S-Presso, designed for city adventures, with exclusive April summer offers and limited-time savings. Don't miss out—book now and drive home your dream car this season!"
         />
         <meta property="twitter:image" content="img/og-tags/s-presso.webp" />
       </Helmet>

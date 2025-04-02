@@ -17,19 +17,19 @@ function DzireCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Dzire CNG  On Road Price in Hyderabad starts Rs.8.44 Lakh at RKS Motor.
+          Maruti Dzire CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 8.44 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Dzire CNG – Limited-Time Deals!
         </title>
         <meta
           name="title"
-          content="Maruti Dzire CNG  On Road Price in Hyderabad starts Rs.8.44 Lakh at RKS Motor. | Maruti Dzire CNG Offers"
+          content="Maruti Dzire CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 8.44 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Dzire CNG – Limited-Time Deals!"
         />
         <meta
           name="description"
-          content="Maruti Dzire CNG in Secunderabad & Hyderabad. Dzire CNG Mileage 31.12KMPL. Best price & offers on Maruti Dzire at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Dzire online. "
+          content="Maruti Dzire CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Dzire CNG with impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Dzire CNG online and enjoy these fantastic summer deals! "
         />
         <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, Dzire On Road Price,Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Dzire Price, Dzire Service Center, Maruti Dzire On Road Price, Maruti Dzire Offers, Maruti Dzire Price, Maruti Dzire Service Center, Maruti Dzire Service Center Near Me, Maruti Suzuki Dzire Price, Maruti Suzuki Dzire On Road Price, Maruti Suzuki Dzire Offers, Maruti Suzuki Dzire, Dzire 2025 Offers, Dzire 2025 Price, Dzire On Road Price in Hyderabad, Dzire Offers in Hyderabad, Dzire Price in Hyderabad, Maruti Dzire 2025 Price, Maruti Dzire 2025 On Road Price, Maruti Dzire 2025 Offers, Maruti Dzire 2025 Price in Hyderabad, Maruti Dzire 2025 On Road Price in Hyderabad, Maruti Suzuki Dzire 2025 Price, Maruti Suzuki Dzire 2025 On Road Price, Maruti Suzuki Dzire 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Dzire Discounts, Maruti Suzuki Dzire 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Summer Discounts on Maruti Dzire, Dzire 2025 On Road Price, Maruti Dzire April 2025 Offers, Maruti Dzire Service Center April 2025, Maruti Dzire Price in Hyderabad, Maruti Dzire On Road Price Hyderabad, Exclusive Summer Offers on Maruti Dzire 2025, Dzire 2025 Special Discounts, Maruti Dzire 2025 Limited-Time Offers, Maruti Suzuki Dzire 2025 Price and Offers, Dzire 2025 Offers in Hyderabad, Maruti Suzuki Dzire 2025 Summer Deals, Maruti Dzire 2025 Price and On Road Price in Hyderabad, Maruti Dzire 2025 Summer Savings, Maruti Suzuki Dzire 2025 Summer Promotions, Maruti Suzuki Dzire 2025 Service Center Near Me, 2025 Dzire Summer Deals, Maruti Suzuki Dzire Summer 2025 Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function DzireCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Dzire CNG On Road Price in Secunderabad, Hyderabad| Dzire CNG  Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Dzire CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 8.44 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Dzire CNG – Limited-Time Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Dzire CNG in Secunderabad & Hyderabad. Dzire CNG Mileage 31.12KMPL. Best price & offers on Maruti Dzire at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Dzire online."
+          content="Maruti Dzire CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Dzire CNG with impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Dzire CNG online and enjoy these fantastic summer deals!"
         />
         <meta property="og:image" content="../img/og-tags/dzire.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Dzire CNG On Road Price in Secunderabad, Hyderabad| Dzire CNG  Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Dzire CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 8.44 Lakh at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Dzire CNG – Limited-Time Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Dzire CNG in Secunderabad & Hyderabad. Dzire CNG Mileage 31.12KMPL. Best price & offers on Maruti Dzire at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Dzire online."
+          content="Maruti Dzire CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Dzire CNG with impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also get the On-Road Price for Maruti Dzire CNG online and enjoy these fantastic summer deals!"
         />
         <meta property="twitter:image" content="../img/og-tags/dzire.webp" />
       </Helmet>

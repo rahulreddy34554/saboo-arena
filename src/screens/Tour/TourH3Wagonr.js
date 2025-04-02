@@ -18,19 +18,19 @@ function TourH3Wagonr() {
     <>
       <Helmet>
         <title>
-        Maruti Suzuki WagonR Tour H3 Commercial – Starting at ₹5.51 Lakh at RKS Motor!
+        Maruti Suzuki WagonR Tour H3 Commercial 2025 Discounts, Best Price Offers, WagonR Tour H3 On Road Price, Summer Discounts 2025, Maruti WagonR Tour H3 Commercial Deals.
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki WagonR Tour H3 Commercial – Starting at ₹5.51 Lakh at RKS Motor!"
+          content="Maruti Suzuki WagonR Tour H3 Commercial 2025 Discounts, Best Price Offers, WagonR Tour H3 On Road Price, Summer Discounts 2025, Maruti WagonR Tour H3 Commercial Deals."
         />
         <meta
           name="description"
-          content="The Maruti Suzuki WagonR Tour H3 Commercial offers both CNG and petrol engine options, delivering great fuel efficiency and performance. Celebrate Mahashivratri and Valentine's Day with exclusive offers at Saboo Maruti Suzuki Commercial. Visit us today to explore its features, specifications, and more!"
+          content="2025 Discounts, Summer Offers, WagonR Tour H3 Commercial CNG & Petrol Price, Best Deals at Saboo Maruti Suzuki, WagonR Tour H3 Commercial On Road Price, Maruti Suzuki Commercial Offers, Maruti WagonR Tour H3 Commercial Features, CNG & Petrol Engine Options, WagonR Tour H3 Commercial Fuel Efficiency, WagonR Tour H3 Commercial Offers in Hyderabad, WagonR Tour H3 Commercial Savings 2025."
         />
         <meta
           name="keywords"
-          content="Maruti Suzuki WagonR Tour H3, WagonR H3 Commercial, CNG and Petrol Engine WagonR, Fuel-efficient WagonR, WagonR Tour H3 features, WagonR Tour H3 performance, WagonR H3 specifications, Commercial vehicle WagonR, WagonR Tour H3 mileage, Maruti Suzuki commercial vehicle, Mahashivratri offers, Valentine's Day deals."
+          content="Maruti Suzuki WagonR Tour H3, WagonR H3 Commercial, CNG and Petrol Engine WagonR, Fuel-efficient WagonR, WagonR Tour H3 Features, WagonR Tour H3 Performance, WagonR H3 Specifications, Commercial Vehicle WagonR, WagonR Tour H3 Mileage, Maruti Suzuki Commercial Vehicle, Summer 2025 Offers, WagonR Tour H3 Summer Discounts, Maruti Suzuki Commercial Summer Offers, Best WagonR Tour H3 Offers in Hyderabad, WagonR Tour H3 Summer Savings, 2025 WagonR Tour H3 Prices.."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -40,22 +40,22 @@ function TourH3Wagonr() {
         />
         <meta
           property="og:title"
-          content="Maruti Suzuki WagonR Tour H3 Commercial | Commercial WagonR Tour H3 Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki WagonR Tour H3 Commercial 2025 Discounts, Best Price Offers, WagonR Tour H3 On Road Price, Summer Discounts 2025, Maruti WagonR Tour H3 Commercial Deals."
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki WagonR Tour H3 commercial is available in CNG and petrol engine option. Know more about the Tour H3 mileage, features, specifications, performance,exterior and interior of Tour H3 Commercial at Saboo Maruti Suzuki Commercial."
+          content="2025 Discounts, Summer Offers, WagonR Tour H3 Commercial CNG & Petrol Price, Best Deals at Saboo Maruti Suzuki, WagonR Tour H3 Commercial On Road Price, Maruti Suzuki Commercial Offers, Maruti WagonR Tour H3 Commercial Features, CNG & Petrol Engine Options, WagonR Tour H3 Commercial Fuel Efficiency, WagonR Tour H3 Commercial Offers in Hyderabad, WagonR Tour H3 Commercial Savings 2025."
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki WagonR Tour H3 Commercial | Commercial WagonR Tour H3 Car Mileage, Features, Specification | Saboo Maruti"
+          content="Maruti Suzuki WagonR Tour H3 Commercial 2025 Discounts, Best Price Offers, WagonR Tour H3 On Road Price, Summer Discounts 2025, Maruti WagonR Tour H3 Commercial Deals."
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki WagonR Tour H3 commercial is available in CNG and petrol engine option. Know more about the Tour H3 mileage, features, specifications, performance,exterior and interior of Tour H3 Commercial at Saboo Maruti Suzuki Commercial."
+          content="2025 Discounts, Summer Offers, WagonR Tour H3 Commercial CNG & Petrol Price, Best Deals at Saboo Maruti Suzuki, WagonR Tour H3 Commercial On Road Price, Maruti Suzuki Commercial Offers, Maruti WagonR Tour H3 Commercial Features, CNG & Petrol Engine Options, WagonR Tour H3 Commercial Fuel Efficiency, WagonR Tour H3 Commercial Offers in Hyderabad, WagonR Tour H3 Commercial Savings 2025."
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>

@@ -17,19 +17,19 @@ function EecoCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Eeco CNG  On Road Price in Hyderabad starts Rs.6.58 Lakh at RKS Motor.
+        Maruti Eeco CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.58 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Eeco CNG – Limited-Time Deals!
         </title>
         <meta
           name="title"
-          content="Maruti Eeco CNG  On Road Price in Hyderabad starts Rs.6.58 Lakh at RKS Motor. | Maruti Eeco CNG Offers"
+          content=" Maruti Eeco CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.58 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Eeco CNG – Limited-Time Deals!"
         />
         <meta
           name="description"
-          content="Maruti Eeco CNG in Secunderabad & Hyderabad. Eeco CNG Mileage 31.12KMPL. Best price & offers on Maruti Eeco at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Eeco online. "
+          content="Maruti Eeco CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Eeco CNG with an impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also check the On-Road Price for Maruti Eeco CNG online and grab these fantastic summer deals! "
         />
          <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, Ecco On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Ecco Price, Ecco Service Center, Maruti Ecco On Road Price, Maruti Ecco Offers, Maruti Ecco Price, Maruti Ecco Service Center, Maruti Ecco Service Center Near Me, Maruti Suzuki Ecco Price, Maruti Suzuki Ecco On Road Price, Maruti Suzuki Ecco Offers, Maruti Suzuki Ecco, Ecco 2025 Offers, Ecco 2025 Price, Ecco On Road Price in Hyderabad, Ecco Offers in Hyderabad, Ecco Price in Hyderabad, Maruti Ecco 2025 Price, Maruti Ecco 2025 On Road Price, Maruti Ecco 2025 Offers, Maruti Ecco 2025 Price in Hyderabad, Maruti Ecco 2025 On Road Price in Hyderabad, Maruti Suzuki Ecco 2025 Price, Maruti Suzuki Ecco 2025 On Road Price, Maruti Suzuki Ecco 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Ecco Discounts, Maruti Suzuki Ecco 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Summer Discounts on Maruti Eeco, Eeco 2025 On Road Price, Maruti Eeco April 2025 Offers, Maruti Eeco Service Center April 2025, Maruti Eeco Price in Hyderabad, Maruti Eeco On Road Price Hyderabad, Exclusive Summer Offers on Maruti Eeco 2025, Eeco 2025 Special Discounts, Maruti Eeco 2025 Limited-Time Offers, Maruti Suzuki Eeco 2025 Price and Offers, Eeco 2025 Offers in Hyderabad, Maruti Suzuki Eeco 2025 Summer Deals, Maruti Eeco 2025 Price and On Road Price in Hyderabad, Maruti Eeco 2025 Summer Savings, Maruti Suzuki Eeco 2025 Summer Promotions, Maruti Suzuki Eeco 2025 Service Center Near Me, 2025 Eeco Summer Deals, Maruti Suzuki Eeco Summer 2025 Offers."
         />
 
         <meta name="author" content="Broaddcast" />
@@ -40,22 +40,22 @@ function EecoCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Eeco CNG On Road Price in Secunderabad, Hyderabad| Eeco CNG  Mileage, Features, Specification | Saboo Maruti"
+          content=" Maruti Eeco CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.58 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Eeco CNG – Limited-Time Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Eeco CNG in Secunderabad & Hyderabad. Eeco CNG Mileage 31.12KMPL. Best price & offers on Maruti Eeco at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Eeco online."
+          content="Maruti Eeco CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Eeco CNG with an impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also check the On-Road Price for Maruti Eeco CNG online and grab these fantastic summer deals!"
         />
         {/* <meta property='og:image' content='../img/og-tags/dzire.webp' /> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Eeco CNG On Road Price in Secunderabad, Hyderabad| Eeco CNG  Mileage, Features, Specification | Saboo Maruti"
+          content=" Maruti Eeco CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 6.58 Lakh at RKS Motor!  Exclusive April 2025 Summer Offers on Maruti Eeco CNG – Limited-Time Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Eeco CNG in Secunderabad & Hyderabad. Eeco CNG Mileage 31.12KMPL. Best price & offers on Maruti Eeco at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Eeco online."
+          content="Maruti Eeco CNG 2025 Summer Offers – Best Price & Deals in Secunderabad & Hyderabad at Saboo RKS! Get the Maruti Eeco CNG with an impressive mileage of 31.12 KMPL and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best prices, finance options, and limited-time discounts. You can also check the On-Road Price for Maruti Eeco CNG online and grab these fantastic summer deals!"
         />
         {/* <meta property='twitter:image' content='../img/og-tags/dzire.webp' /> */}
       </Helmet>

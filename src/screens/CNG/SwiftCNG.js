@@ -17,19 +17,19 @@ function SwiftCNG() {
     <>
       <Helmet>
         <title>
-        Maruti Swift CNG  On Road Price in Hyderabad starts Rs.8.95 Lakh at RKS Motor.
+        Maruti Swift CNG On Road Price in Hyderabad – Summer 2025 Deals & Discounts at RKS Motor!
         </title>
         <meta
           name="title"
-          content=" Maruti Swift CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor | Swift CNG Mileage & Specifications"
+          content="Maruti Swift CNG On Road Price in Hyderabad – Summer 2025 Deals & Discounts at RKS Motor!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Swift S-CNG Price in Hyderabad & Secunderabad. Swift CNG Mileage 31.6KMPL. Best price and offers on Maruti Swift S-CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Get the Best Summer 2025 Offers on Maruti Suzuki Swift S-CNG in Hyderabad & Secunderabad! Enjoy an impressive mileage of 31.6 KMPL with the Swift CNG. Avail unbeatable prices, exclusive discounts, and flexible finance options at Saboo Maruti. Visit your nearest showroom today for the best deals!"
         />
         <meta
           name="keywords"
-          content="2025 Discounts and Festive Offers, Swift CNG On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Swift CNG Price, Swift CNG Service Center, Maruti Swift CNG On Road Price, Maruti Swift CNG Offers, Maruti Swift CNG Price, Maruti Swift CNG Service Center, Maruti Swift CNG Service Center Near Me, Maruti Suzuki Swift CNG Price, Maruti Suzuki Swift CNG On Road Price, Maruti Suzuki Swift CNG Offers, Maruti Suzuki Swift CNG, Swift CNG 2025 Offers, Swift CNG 2025 Price, Swift CNG On Road Price in Hyderabad, Swift CNG Offers in Hyderabad, Swift CNG Price in Hyderabad, Maruti Swift CNG 2025 Price, Maruti Swift CNG 2025 On Road Price, Maruti Swift CNG 2025 Offers, Maruti Swift CNG 2025 Price in Hyderabad, Maruti Swift CNG 2025 On Road Price in Hyderabad, Maruti Suzuki Swift CNG 2025 Price, Maruti Suzuki Swift CNG 2025 On Road Price, Maruti Suzuki Swift CNG 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Swift CNG Discounts, Maruti Suzuki Swift CNG 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+          content="2025 Discounts and Festive Offers, Swift CNG On Road Price, Swift CNG Price, Swift CNG Service Center, Maruti Swift CNG On Road Price, Maruti Swift CNG Offers, Maruti Swift CNG Price, Maruti Swift CNG Service Center, Maruti Swift CNG Service Center Near Me, Maruti Suzuki Swift CNG Price, Maruti Suzuki Swift CNG On Road Price, Maruti Suzuki Swift CNG Offers, Maruti Suzuki Swift CNG, Swift CNG 2025 Offers, Swift CNG 2025 Price, Swift CNG On Road Price in Hyderabad, Swift CNG Offers in Hyderabad, Swift CNG Price in Hyderabad, Maruti Swift CNG 2025 Price, Maruti Swift CNG 2025 On Road Price, Maruti Swift CNG 2025 Offers, Maruti Swift CNG 2025 Price in Hyderabad, Maruti Swift CNG 2025 On Road Price in Hyderabad, Maruti Suzuki Swift CNG 2025 Price, Maruti Suzuki Swift CNG 2025 On Road Price, Maruti Suzuki Swift CNG 2025 Offers, Vitara Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function SwiftCNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Swift CNG Price in Hyderabad | Swift CNG CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Swift CNG On Road Price in Hyderabad – Summer 2025 Deals & Discounts at RKS Motor!"
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki Swift CNG Price in Hyderabad & Secunderabad. Swift CNG CNG Mileage 31.6KMPL. Best price and offers on Maruti Swift CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Get the Best Summer 2025 Offers on Maruti Suzuki Swift S-CNG in Hyderabad & Secunderabad! Enjoy an impressive mileage of 31.6 KMPL with the Swift CNG. Avail unbeatable prices, exclusive discounts, and flexible finance options at Saboo Maruti. Visit your nearest showroom today for the best deals!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Swift CNG Price in Hyderabad | Swift CNG CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Swift CNG On Road Price in Hyderabad – Summer 2025 Deals & Discounts at RKS Motor!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki Swift CNG Price in Hyderabad & Secunderabad. Swift CNG Mileage 31.6KMPL. Best price and offers on Maruti Swift CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Get the Best Summer 2025 Offers on Maruti Suzuki Swift S-CNG in Hyderabad & Secunderabad! Enjoy an impressive mileage of 31.6 KMPL with the Swift CNG. Avail unbeatable prices, exclusive discounts, and flexible finance options at Saboo Maruti. Visit your nearest showroom today for the best deals!"
         />
         <meta
           property="twitter:image"

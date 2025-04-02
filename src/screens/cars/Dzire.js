@@ -29,19 +29,19 @@ function Dzire() {
     <>
       <Helmet>
         <title>
-        2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor
+        Maruti Suzuki Dzire 2025 Summer Discounts – Comfort & Style at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Suzuki Dzire!
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content="Maruti Suzuki Dzire 2025 Summer Discounts – Comfort & Style at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Suzuki Dzire!"
         />
         <meta
           name="description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
+          content="Enjoy amazing 2025 summer discounts on the Maruti Suzuki Dzire this April – a stylish and comfortable sedan with exclusive offers and limited-time savings! "
         />
         <meta
           name="keywords"
-          content="Maruti Dzire Offer, Holi & Ugadi 2025 Discounts, Maruti Suzuki Dzire Deals, Arena Dzire Offers, Dzire Stylish Sedan Discount, 2025 Year Sale Dzire, Maruti Dzire Festive Offers, Dzire 2025 Special Offers, Maruti Dzire Holi & Ugadi Deals, Maruti Dzire Price, Dzire On Road Price, Maruti Suzuki Dzire Holi Ugadi Offers, Dzire Limited-time Discounts, 2025 Dzire Offers, Maruti Dzire 2025 Festive Savings"
+          content="Maruti Dzire Offer, April Summer Offers on Maruti Dzire, Maruti Suzuki Dzire Deals, Dzire Stylish Sedan Summer Discounts, 2025 Year Sale Dzire, Maruti Dzire Summer Specials, Dzire 2025 Special Offers, Maruti Dzire April Deals, Dzire Limited-Time Summer Discounts, Maruti Suzuki Dzire Best Summer Offers, Dzire On Road Price, 2025 Dzire Summer Savings, Maruti Dzire 2025 April Offers, Maruti Dzire 2025 Exclusive Summer Discounts."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -51,22 +51,22 @@ function Dzire() {
         />
         <meta
           property="og:title"
-          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content="Maruti Suzuki Dzire 2025 Summer Discounts – Comfort & Style at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Suzuki Dzire! at RKS Motor"
         />
         <meta
           property="og:description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
+          content="Enjoy amazing 2025 summer discounts on the Maruti Suzuki Dzire this April – a stylish and comfortable sedan with exclusive offers and limited-time savings! "
         />
         <meta property="og:image" content="img/og-tags/dzire.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content=" 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content="Maruti Suzuki Dzire 2025 Summer Discounts – Comfort & Style at RKS Motor! Exclusive April 2025 Summer Offers on Maruti Suzuki Dzire! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
+          content="Enjoy amazing 2025 summer discounts on the Maruti Suzuki Dzire this April – a stylish and comfortable sedan with exclusive offers and limited-time savings! "
         />
         <meta property="twitter:image" content="img/og-tags/dzire.webp" />
       </Helmet>

@@ -30,20 +30,20 @@ function Wagonr() {
       <Header />
       <Helmet>
         <title>
-        Maruti Suzuki WagonR 2025 Discounts and March Holi & Ugadi Offers – Spacious and Efficient! at RKS Motor
+        Maruti Suzuki WagonR 2025 Summer Discounts – Spacious and Efficient at RKS Motor!  Exclusive April 2025 Offers on Maruti Suzuki WagonR – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki WagonR 2025 Discounts and March Holi & Ugadi Offers – Spacious and Efficient! at RKS Motor"
+          content=" Maruti Suzuki WagonR 2025 Summer Discounts – Spacious and Efficient at RKS Motor!  Exclusive April 2025 Offers on Maruti Suzuki WagonR – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Enjoy 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki WagonR! Known for its spacious design and efficient performance, the WagonR is available with special festive discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings!"
+          content=" Enjoy Exclusive April 2025 Summer Discounts on the Maruti Suzuki WagonR at Saboo RKS! Known for its spacious design and efficient performance, the Maruti Suzuki WagonR is now available with special April summer offers and limited-time discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings this season!"
         />
 
         <meta
           name="keywords"
-          content="Maruti WagonR Offer, WagonR 2025 Discounts and Holi & Ugadi Festive Offers, Maruti Suzuki WagonR Sale, WagonR Deals, Maruti Arena WagonR Offer, 2025 Holi & Ugadi Car Sale, Maruti WagonR 2025 Limited-time Offers, WagonR 2025 Special Discounts, Maruti WagonR Holi & Ugadi Deals, WagonR Festive Offers 2025, Maruti Suzuki WagonR 2025 Promotions, WagonR Holi & Ugadi Savings, Maruti WagonR 2025 Car Offers"
+          content="Maruti WagonR Offer, April 2025 Summer Discounts on Maruti WagonR, WagonR 2025 Summer Offers, Maruti Suzuki WagonR April Deals, WagonR Summer Special Discounts, Maruti Arena WagonR April Offers, 2025 Summer Car Sale WagonR, Maruti WagonR 2025 Limited-Time Summer Offers, WagonR 2025 April Special Discounts, Maruti WagonR Summer Savings, WagonR 2025 Summer Festive Deals, Maruti Suzuki WagonR April Promotions, WagonR April 2025 Savings, Maruti WagonR 2025 Car Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -53,22 +53,22 @@ function Wagonr() {
         />
         <meta
           property="og:title"
-          content="Maruti Suzuki WagonR 2025 Discounts and March Holi & Ugadi Offers – Spacious and Efficient! at RKS Motor"
+          content=" Maruti Suzuki WagonR 2025 Summer Discounts – Spacious and Efficient at RKS Motor!  Exclusive April 2025 Offers on Maruti Suzuki WagonR – Limited-Time Summer Deals!"
         />
         <meta
           property="og:description"
-          content="Enjoy 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki WagonR! Known for its spacious design and efficient performance, the WagonR is available with special festive discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings!"
+          content="Enjoy Exclusive April 2025 Summer Discounts on the Maruti Suzuki WagonR at Saboo RKS! Known for its spacious design and efficient performance, the Maruti Suzuki WagonR is now available with special April summer offers and limited-time discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings this season!"
         />
         <meta property="og:image" content="img/og-tags/wagonr.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Suzuki WagonR 2025 Discounts and March Holi & Ugadi Offers – Spacious and Efficient! at RKS Motor"
+          content=" Maruti Suzuki WagonR 2025 Summer Discounts – Spacious and Efficient at RKS Motor!  Exclusive April 2025 Offers on Maruti Suzuki WagonR – Limited-Time Summer Deals!"
         />
         <meta
           property="twitter:description"
-          content="Enjoy 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki WagonR! Known for its spacious design and efficient performance, the WagonR is available with special festive discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings!"
+          content="Enjoy Exclusive April 2025 Summer Discounts on the Maruti Suzuki WagonR at Saboo RKS! Known for its spacious design and efficient performance, the Maruti Suzuki WagonR is now available with special April summer offers and limited-time discounts. Grab the offer before it's gone and drive home the WagonR with amazing savings this season!"
         />
         <meta property="twitter:image" content="img/og-tags/wagonr.webp" />
       </Helmet>

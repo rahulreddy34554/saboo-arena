@@ -17,19 +17,19 @@ function AltoK10CNG() {
     <>
       <Helmet>
         <title>
-        Maruti Alto K10 CNG  On Road Price in Hyderabad starts Rs.5.96 Lakh at RKS Motor
+        Maruti Alto K10 CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 5.96 Lakh at RKS Motor! Exclusive April 2025 Offers on Maruti Alto K10 CNG – Limited-Time Summer Deals!
         </title>
         <meta
           name="title"
-          content="Maruti Alto K10 CNG  On Road Price in Hyderabad starts Rs.5.96 Lakh at RKS Motor"
+          content="Maruti Alto K10 CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 5.96 Lakh at RKS Motor! Exclusive April 2025 Offers on Maruti Alto K10 CNG – Limited-Time Summer Deals!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Alto K10 CNG Price in Hyderabad & Secunderabad. Alto CNG Mileage 31.6KMPL. Best price and 2025 offers on Maruti Alto K10 CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Maruti Suzuki Alto K10 CNG 2025 Summer Offers – Best Price in Hyderabad & Secunderabad at Saboo RKS! Enjoy the Maruti Alto K10 CNG with 31.6 KMPL mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best deals and limited-time discounts on the Alto K10 CNG this season!"
         />
         <meta
           name="keywords"
-          content="2025 Discounts and festive Offers , 2025 Year offers, alto on road price, alto offers, alto price, alto service center, maruti alto on road price, maruti alto offers, maruti alto price, maruti alto service center, maruti alto service center near me, maruti suzuki alto price, maruti suzuki alto on road price, maruti suzuki alto offers,maruti suzuki alto, alto on road price, alto 2025 offers, alto 2025 price, alto on road price in hyderabad, brezza offers in hyderabad, alto price in hyderabad, maruti alto 2025 price, maruti alto 2025 on road price, maruti alto 2025 offers, maruti alto 2025 price in hyderabad, maruti alto 2025 on road price in hyderabad, Maruti Suzuki alto 2025 price, Maruti Suzuki alto 2025 on road price, maruti suzuki alto 2025 offers,  vitara alto offers, Vitara alto price, vitara alto on road price, vitara alto 2025 offers, vitara alto 2025 price, vitara alto 2025 on road price, vitara alto 2025 offers"
+          content="2025 Summer Discounts on Maruti Alto, Alto 2025 Summer Offers, Maruti Alto On Road Price April 2025, Alto Price and Offers, Maruti Alto Service Center April 2025, Maruti Alto 2025 Price in Hyderabad, Exclusive April 2025 Alto Deals, Maruti Alto 2025 Summer Deals, Alto 2025 Offers in Hyderabad, Maruti Suzuki Alto 2025 On Road Price, Alto 2025 Limited-Time Offers, Maruti Alto Summer Savings 2025, Vitara Alto 2025 Offers, Vitara Alto 2025 On Road Price, Maruti Alto 2025 On Road Price in Hyderabad, Maruti Suzuki Alto April 2025 Offers, Brezza Alto Offers in Hyderabad, Alto 2025 Price and Service Offers, Maruti Suzuki Alto 2025 Summer Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -39,22 +39,22 @@ function AltoK10CNG() {
         />
         <meta
           property="og:title"
-          content="Maruti Alto K10 CNG Price in Hyderabad | Alto CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Alto K10 CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 5.96 Lakh at RKS Motor! Exclusive April 2025 Offers on Maruti Alto K10 CNG – Limited-Time Summer Deals!"
         />
         <meta
           property="og:description"
-          content="Maruti Suzuki Alto K10 Price in Hyderabad & Secunderabad. Alto CNG Mileage 31.6KMPL. Best price and offers on Maruti Alto K10 CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Maruti Suzuki Alto K10 CNG 2025 Summer Offers – Best Price in Hyderabad & Secunderabad at Saboo RKS! Enjoy the Maruti Alto K10 CNG with 31.6 KMPL mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best deals and limited-time discounts on the Alto K10 CNG this season!"
         />
         <meta property="og:image" content="../img/og-tags/alto.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Alto K10 CNG Price in Hyderabad | Alto CNG Mileage & Specifications | Saboo Maruti"
+          content="Maruti Alto K10 CNG 2025 On-Road Price in Hyderabad – Starts at Rs. 5.96 Lakh at RKS Motor! Exclusive April 2025 Offers on Maruti Alto K10 CNG – Limited-Time Summer Deals!"
         />
         <meta
           property="twitter:description"
-          content="Maruti Suzuki Alto K10 Price in Hyderabad & Secunderabad. Alto CNG Mileage 31.6KMPL. Best price and offers on Maruti Alto K10 CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Maruti Suzuki Alto K10 CNG 2025 Summer Offers – Best Price in Hyderabad & Secunderabad at Saboo RKS! Enjoy the Maruti Alto K10 CNG with 31.6 KMPL mileage and exclusive April 2025 summer offers. Visit your nearest Saboo Maruti Showroom for the best deals and limited-time discounts on the Alto K10 CNG this season!"
         />
         <meta property="twitter:image" content="../img/og-tags/alto.webp" />
       </Helmet>
